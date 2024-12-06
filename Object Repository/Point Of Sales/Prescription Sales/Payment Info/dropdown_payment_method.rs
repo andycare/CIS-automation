@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>dropdown_payment_method</name>
+   <tag></tag>
+   <elementGuidId>5a7aec7f-c02c-48b0-97e0-a377f6bacc3b</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='paymentMethod']/span</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>span.p-dropdown-label.p-inputtext.p-placeholder</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>04175447-2489-488a-a4a6-d39fcf05fb88</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>p-dropdown-label p-inputtext p-placeholder</value>
+      <webElementGuid>bdc110b9-51e1-4051-af60-1e4b520f614a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Select</value>
+      <webElementGuid>cf37540a-a068-4210-af63-2aec3ebee8ec</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;paymentMethod&quot;)/span[@class=&quot;p-dropdown-label p-inputtext p-placeholder&quot;]</value>
+      <webElementGuid>d8e1a8ae-60d4-463c-b7df-d7c9a43abfe3</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='paymentMethod']/span</value>
+      <webElementGuid>4586aaa7-f9a9-446c-9c19-55080f66ab80</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='*'])[2]/following::span[1]</value>
+      <webElementGuid>f8e72a4a-e940-4d19-a00b-879657984d3d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='*'])[3]/preceding::span[2]</value>
+      <webElementGuid>98800044-17e5-4719-85c2-a1fd7418e135</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[8]/div/div/div/div[2]/div/div/div[2]/div/div/div/span</value>
+      <webElementGuid>086965aa-8cca-4953-a26e-7ac7d14b881d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Select' or . = 'Select')]</value>
+      <webElementGuid>d7cbddb5-0475-4ca5-b52e-74a83668c65b</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>dropdown_photo_type</name>
+   <tag></tag>
+   <elementGuidId>aadb5ed5-6e4a-4e45-b65c-c13094c258e6</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>span.p-dropdown-label.p-inputtext.p-placeholder</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='documentTypeId']/span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>e20af461-c03c-4148-9147-63a1810da12b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>p-dropdown-label p-inputtext p-placeholder</value>
+      <webElementGuid>51429ad8-6ed7-43d0-a096-31bb9dde9c84</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Choose</value>
+      <webElementGuid>b5337ddf-9e2d-4b35-9c50-34bf90075e85</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;documentTypeId&quot;)/span[@class=&quot;p-dropdown-label p-inputtext p-placeholder&quot;]</value>
+      <webElementGuid>cd2f572a-c255-4a5a-be5c-5bcfcc78e4c5</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='documentTypeId']/span</value>
+      <webElementGuid>c9a9b558-a9dc-410d-866a-1ef0dce019a7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Photo Type'])[1]/following::span[1]</value>
+      <webElementGuid>3995fec7-b3b2-4d49-930b-c492635f1d71</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Foto &amp; Document'])[1]/following::span[1]</value>
+      <webElementGuid>a5a21be8-8d58-404c-975d-cdb6680df532</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='*'])[3]/preceding::span[2]</value>
+      <webElementGuid>19c9d4e8-f971-463b-a855-b1a130867da8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//form/div/div[2]/div/span</value>
+      <webElementGuid>620bd7aa-1f51-4e85-85b3-6cd1651cc601</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Choose' or . = 'Choose')]</value>
+      <webElementGuid>1d725780-33f7-429f-b3db-4ee416812ded</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

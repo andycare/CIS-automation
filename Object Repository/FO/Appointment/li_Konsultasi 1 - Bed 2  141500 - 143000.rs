@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>li_Konsultasi 1 - Bed 2  141500 - 143000</name>
+   <tag></tag>
+   <elementGuidId>0defee32-4f2e-4f2e-b933-8d9839187b04</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>li.p-dropdown-item</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='`'])[2]/following::li[1]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>li</value>
+      <webElementGuid>2e9f740e-9dad-44db-a6d9-b6e6ce0fc742</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>p-dropdown-item</value>
+      <webElementGuid>350c2eeb-50f3-4926-a525-0bc5d22dc276</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-label</name>
+      <type>Main</type>
+      <value>Konsultasi 1 - Bed 2 : 14:15:00 - 14:30:00</value>
+      <webElementGuid>d2be6d52-1093-44b1-b4ec-314508892026</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>role</name>
+      <type>Main</type>
+      <value>option</value>
+      <webElementGuid>8050b839-d8ff-4350-ab2b-523acb53c32f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-selected</name>
+      <type>Main</type>
+      <value>false</value>
+      <webElementGuid>8491e254-1d41-4a52-8536-87a630c136e8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Konsultasi 1 - Bed 2 : 14:15:00 - 14:30:00</value>
+      <webElementGuid>05ebfeb5-7583-4ad8-8853-7edb7faf07e9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[1]/div[@class=&quot;p-dropdown-panel p-component p-connected-overlay-enter-done&quot;]/div[@class=&quot;p-dropdown-items-wrapper&quot;]/ul[@class=&quot;p-dropdown-items&quot;]/li[@class=&quot;p-dropdown-item&quot;]</value>
+      <webElementGuid>197c8120-ac40-4bcc-8898-f18600a13878</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='`'])[2]/following::li[1]</value>
+      <webElementGuid>def81f5d-0e1d-4b0c-aa73-df0ff49b9d2f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Alt'])[2]/following::li[1]</value>
+      <webElementGuid>3250b1b8-595a-49e7-916f-0e6eddac2692</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Konsultasi 1 - Bed 2 : 14:30:00 - 14:45:00'])[1]/preceding::li[1]</value>
+      <webElementGuid>3b2cc566-bbbe-403b-961d-381bebffe4ba</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Konsultasi 1 - Bed 2 : 14:45:00 - 15:00:00'])[1]/preceding::li[2]</value>
+      <webElementGuid>2394f714-7fc2-4a8c-8b55-c52083eb2cab</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Konsultasi 1 - Bed 2 : 14:15:00 - 14:30:00']/parent::*</value>
+      <webElementGuid>647a143d-301a-487b-a123-5e5bbc28f18c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/div/ul/li</value>
+      <webElementGuid>2e3de022-7b78-4c65-afc8-25ec8f41e55d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//li[(text() = 'Konsultasi 1 - Bed 2 : 14:15:00 - 14:30:00' or . = 'Konsultasi 1 - Bed 2 : 14:15:00 - 14:30:00')]</value>
+      <webElementGuid>17226480-df52-44f8-a31e-f22569851a85</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Delete Patient Guarantor</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>e7931426-d877-4d72-b7cf-e1b1461eead2</testCaseGuid>
+</TestCaseEntity>

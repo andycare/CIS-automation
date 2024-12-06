@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_JONI</name>
+   <tag></tag>
+   <elementGuidId>cee5e1a2-f803-4536-af53-b44fb776e1f6</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/div/div/div[2]/div[2]/div[2]/div/div/div[4]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>990ddb70-3f7b-45ea-85b4-85cafb78cb6a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>col-8 text-body-2 p-2</value>
+      <webElementGuid>5e7b032d-6b39-4539-99e2-c971b8c0ae38</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>JONI  </value>
+      <webElementGuid>793dec32-a1d5-4753-8da5-f38a72ec9b1c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[@class=&quot;layout-wrapper layout-static p-ripple-disabled layout-sidebar-darkgray&quot;]/div[@class=&quot;layout-content-wrapper&quot;]/div[@class=&quot;layout-content padding-out-content&quot;]/div[@class=&quot;col-12 xl:col-12 p-0&quot;]/div[@class=&quot;grid py-4 border-box&quot;]/div[@class=&quot;col-12 md:col-6 py-0&quot;]/div[@class=&quot;grid m-0&quot;]/div[@class=&quot;col-8 text-body-2 p-2&quot;]</value>
+      <webElementGuid>c1cb2359-a4a5-4164-9d77-2717facf70f3</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div/div/div[2]/div[2]/div[2]/div/div/div[4]</value>
+      <webElementGuid>089d31b9-ccd9-4e3e-b81f-43efcfe5922c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Patient Name'])[1]/following::div[1]</value>
+      <webElementGuid>f12bd831-f34b-4d43-83e3-761ff8cefc07</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Patient No'])[1]/following::div[3]</value>
+      <webElementGuid>97ea53cb-7a18-4369-b118-84ac193263b4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Birthdate'])[1]/preceding::div[1]</value>
+      <webElementGuid>85a7ddfd-4db0-48e0-acaa-8e609cf14390</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Phone No'])[1]/preceding::div[3]</value>
+      <webElementGuid>c63d5b57-a9fe-42b1-9ecc-8333d7fdc29a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='JONI']/parent::*</value>
+      <webElementGuid>73b3eeb3-763e-4bba-820d-701c5080a419</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div/div[4]</value>
+      <webElementGuid>bc9eece9-1965-4902-897d-1f3dae50b325</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'JONI  ' or . = 'JONI  ')]</value>
+      <webElementGuid>7a5e9d4c-8140-41cd-ae2b-6a0a9e40d0e8</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

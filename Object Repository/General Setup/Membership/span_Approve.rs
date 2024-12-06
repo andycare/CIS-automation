@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Approve</name>
+   <tag></tag>
+   <elementGuidId>186cc543-fb99-4dcc-8075-33116946789b</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='pr_id_116_content_0']/div/div[2]/div/table/tbody/tr/td[5]/div/button/span</value>
+      </entry>
+      <entry>
+         <key>BASIC</key>
+         <value>//*[@id = 'btn_approveMember']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>button.p-button.p-component.bg-border-netral.button-add.col-4.p-0 > span.p-button-label.p-c</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>e7112bd1-ffa6-4a26-9077-605aec794f97</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>p-button-label p-c</value>
+      <webElementGuid>45afadca-21a5-473b-a38a-ff9b1dda06bd</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-pc-section</name>
+      <type>Main</type>
+      <value>label</value>
+      <webElementGuid>144e2d6c-e05f-47fb-92dc-bb4557d21844</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Approve</value>
+      <webElementGuid>ceee7195-852b-4f35-8d44-e742637a34ec</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;pr_id_116_content_0&quot;)/div[1]/div[@class=&quot;p-datatable p-component p-datatable-responsive-scroll p-datatable-products font-size-datatable&quot;]/div[@class=&quot;p-datatable-wrapper&quot;]/table[@class=&quot;p-datatable-table&quot;]/tbody[@class=&quot;p-datatable-tbody&quot;]/tr[1]/td[5]/div[@class=&quot;flex gap-2 min-w-max&quot;]/button[@class=&quot;p-button p-component bg-border-netral button-add col-4 p-0&quot;]/span[@class=&quot;p-button-label p-c&quot;]</value>
+      <webElementGuid>34b36201-71de-403f-8734-4f02a45a206b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>btn_approveMember</value>
+      <webElementGuid>5c14ba21-71c0-47f4-8c01-e920a86d7bc1</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='pr_id_116_content_0']/div/div[2]/div/table/tbody/tr/td[5]/div/button/span</value>
+      <webElementGuid>200742c0-51c9-4601-be0d-2407d8b1fc98</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='AutoFO'])[1]/following::span[1]</value>
+      <webElementGuid>676b40b0-7ed2-4daf-8300-b8849f1e08a6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Add Member'])[1]/following::span[1]</value>
+      <webElementGuid>a97a9d57-22b6-4f2c-b6bf-7bba2c70a3c1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Reject'])[1]/preceding::span[1]</value>
+      <webElementGuid>1dde9618-93b4-47f6-9311-8e46d40adeef</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='NANA MARDIANA'])[1]/preceding::span[2]</value>
+      <webElementGuid>5ec5f8c4-b3a3-4094-bd1b-320af670ef88</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Approve']/parent::*</value>
+      <webElementGuid>63bbe8cd-3a3f-4e3e-b33a-db9c35660c44</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//td[5]/div/button/span</value>
+      <webElementGuid>fbc53c0d-faef-4c22-b5e5-7a7f050b53a1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Approve' or . = 'Approve')]</value>
+      <webElementGuid>d6948f4e-9ea8-4f51-8b90-3d5f30a7c77b</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

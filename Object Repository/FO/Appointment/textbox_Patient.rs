@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>textbox_Patient</name>
+   <tag></tag>
+   <elementGuidId>58059448-7f5c-408a-9bc9-832a5e02444f</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>input.p-inputtext.p-component.input-search</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//input[@value='']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>input</value>
+      <webElementGuid>b039f96a-074f-49f7-ba3d-572c195dafb7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>p-inputtext p-component input-search</value>
+      <webElementGuid>233e1843-1b68-4940-aa1a-449804bb7fdc</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>placeholder</name>
+      <type>Main</type>
+      <value>Patient Name / Birthdate / Phone No.</value>
+      <webElementGuid>c01ce5da-1633-4205-8286-c475af25290c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[@class=&quot;layout-wrapper layout-static p-ripple-disabled layout-sidebar-darkgray&quot;]/div[@class=&quot;layout-content-wrapper&quot;]/div[@class=&quot;layout-content padding-out-content&quot;]/div[@class=&quot;p-blockui-container&quot;]/div[@class=&quot;card border-box mb-3&quot;]/div[@class=&quot;grid col-12 p-0 mb-3&quot;]/div[@class=&quot;col-6 pr-6 pl-0&quot;]/div[@class=&quot;p-inputgroup mt-2 mr-2 h-33&quot;]/input[@class=&quot;p-inputtext p-component input-search&quot;]</value>
+      <webElementGuid>8ff044fb-c52a-47b4-87d6-6855f369be57</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//input[@value='']</value>
+      <webElementGuid>7714b4de-fa9b-476f-ace4-5d6f635759db</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div/div/div[2]/div[2]/div/div[2]/div[3]/div/input</value>
+      <webElementGuid>b5a1dc02-43a0-4018-9a03-934b04cc3d36</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/div/input</value>
+      <webElementGuid>55b4c4fa-6c28-4b09-91fb-ef0c4612f057</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//input[@placeholder = 'Patient Name / Birthdate / Phone No.']</value>
+      <webElementGuid>ba67d11d-03dd-4df1-89b5-5d5fdd16e175</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

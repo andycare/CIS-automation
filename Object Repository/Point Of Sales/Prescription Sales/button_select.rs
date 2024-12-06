@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_select</name>
+   <tag></tag>
+   <elementGuidId>38a1a13d-7263-4561-9871-1259460b4a92</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//button[@class = 'p-button p-component button-select-action' and (text() = 'Select' or . = 'Select')]</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/div/div/div[2]/div[2]/div[2]/div[3]/div/div/table/tbody/tr/td[9]/div/button</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>button.p-button.p-component.button-select-action</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>81248588-0dfc-4ab9-9b97-6439a6e4fdfc</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>p-button p-component button-select-action</value>
+      <webElementGuid>19e79761-8984-4307-b08b-e082ae64f2d4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Select</value>
+      <webElementGuid>023f3906-5e92-4cc9-ab9d-08c71237a7e3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[@class=&quot;layout-wrapper layout-static p-ripple-disabled layout-sidebar-darkgray&quot;]/div[@class=&quot;layout-content-wrapper&quot;]/div[@class=&quot;layout-content padding-out-content&quot;]/div[@class=&quot;card border-box&quot;]/div[@class=&quot;grid m-0 p-0 align-items-center&quot;]/div[@class=&quot;col-12&quot;]/div[@class=&quot;p-datatable p-component p-datatable-responsive-scroll p-datatable-products font-size-datatable&quot;]/div[@class=&quot;p-datatable-wrapper&quot;]/table[@class=&quot;p-datatable-table&quot;]/tbody[@class=&quot;p-datatable-tbody&quot;]/tr[1]/td[9]/div[@class=&quot;actions&quot;]/button[@class=&quot;p-button p-component button-select-action&quot;]</value>
+      <webElementGuid>a8a10ff4-4623-4432-a3b9-24a1b683a7a3</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div/div/div[2]/div[2]/div[2]/div[3]/div/div/table/tbody/tr/td[9]/div/button</value>
+      <webElementGuid>5ea70cda-b64a-43ae-bb45-e9d600b4fb0d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='New'])[1]/following::button[1]</value>
+      <webElementGuid>040561c0-d958-44f2-bfeb-8020e730bbe1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Pharmacy Only'])[1]/following::button[1]</value>
+      <webElementGuid>b017cdc3-4133-405e-a407-188ad5176edb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Posted Prescription Sales'])[1]/preceding::button[3]</value>
+      <webElementGuid>67826dfa-dfca-4e25-af75-8fe9b0937f1b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//td[9]/div/button</value>
+      <webElementGuid>5725b293-6999-4fe4-9c25-995cd5887089</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[(text() = 'Select' or . = 'Select')]</value>
+      <webElementGuid>f8202b3a-dc46-4b33-b95d-a6ac6bae539b</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

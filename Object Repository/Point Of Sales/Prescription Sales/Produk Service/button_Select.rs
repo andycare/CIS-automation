@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_Select</name>
+   <tag></tag>
+   <elementGuidId>14e1ab42-b3db-491c-9fe8-737a48d5b980</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//td[6]/div/button</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>button.p-button.p-component.button-select-action</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>33a99938-cd7e-406f-9d07-8cf9359ecf02</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>p-button p-component button-select-action</value>
+      <webElementGuid>5be630ca-9191-4c21-8d8c-032616330aa1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Select</value>
+      <webElementGuid>40f16d7e-388a-4197-90aa-f7e42846b5bb</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;pr_id_47_content&quot;)/div[@class=&quot;grid m-0&quot;]/div[@class=&quot;col-12 md:col-6&quot;]/div[@class=&quot;grid&quot;]/div[@class=&quot;col-12 p-0&quot;]/div[@class=&quot;card border-box&quot;]/div[@class=&quot;p-datatable p-component p-datatable-responsive-scroll p-datatable-products paginator-style font-size-datatable tableHeight-450&quot;]/div[@class=&quot;p-datatable-wrapper&quot;]/table[@class=&quot;p-datatable-table&quot;]/tbody[@class=&quot;p-datatable-tbody&quot;]/tr[1]/td[@class=&quot;p-selection-column&quot;]/div[@class=&quot;actions&quot;]/button[@class=&quot;p-button p-component button-select-action&quot;]</value>
+      <webElementGuid>3a0a2578-d063-493b-9f54-d182d080aaa4</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='pr_id_47_content']/div/div/div/div[3]/div/div/div/table/tbody/tr/td[6]/div/button</value>
+      <webElementGuid>52a809da-4043-4afb-b70c-a6a600b6c966</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='GXJG2'])[1]/following::button[1]</value>
+      <webElementGuid>a05f01e9-cb62-49df-aca3-5fc5b223021a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Skin Care Product'])[1]/following::button[1]</value>
+      <webElementGuid>c910cd38-3325-4711-b052-267540542891</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Inventory List'])[1]/preceding::button[3]</value>
+      <webElementGuid>4bc88b47-f932-4707-8709-901862b237c8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//td[6]/div/button</value>
+      <webElementGuid>2ad97b60-c3de-4193-a14d-2db5cb97a7b9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[(text() = 'Select' or . = 'Select')]</value>
+      <webElementGuid>1f2a1c89-5295-4441-a049-d05d0f57c392</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>label_discount</name>
+   <tag></tag>
+   <elementGuidId>062a8be4-9539-417f-acb5-f2f9ac5593aa</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//*[(text() = '0,00' or . = '0,00')]</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/div/div/div[2]/div[2]/div[5]/div/div/div/div[8]/span[2]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>2edbd3ca-3285-42f3-a04d-32f4e9daad2e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>text-value</value>
+      <webElementGuid>a7d4f9f1-707d-44e7-adab-9e079f50172c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>0,00</value>
+      <webElementGuid>4bdedd08-987d-4535-b969-7ccbb8cd3fdb</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[@class=&quot;layout-wrapper layout-static p-ripple-disabled layout-sidebar-darkgray&quot;]/div[@class=&quot;layout-content-wrapper&quot;]/div[@class=&quot;layout-content padding-out-content&quot;]/div[@class=&quot;p-blockui-container&quot;]/div[@class=&quot;card border-box&quot;]/div[@class=&quot;grid&quot;]/div[@class=&quot;col-12 md:col-6 p-0 md:p-3&quot;]/div[@class=&quot;grid p-0 m-0&quot;]/div[@class=&quot;col-8 px-2 py-2 text-value&quot;]/span[@class=&quot;text-value&quot;]</value>
+      <webElementGuid>e75359ec-daf6-45f6-9b58-9ec8ea49f2eb</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div/div/div[2]/div[2]/div[5]/div/div/div/div[8]/span[2]</value>
+      <webElementGuid>ad686c72-fb17-4822-9bf6-f1f7355012ce</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='IDR'])[2]/following::span[1]</value>
+      <webElementGuid>6ca2814b-01d7-4561-b331-07d0514f261c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Total Discount'])[1]/following::span[2]</value>
+      <webElementGuid>3c96c8ae-203e-4653-8b95-ff29208fb154</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Total Ppn'])[1]/preceding::span[1]</value>
+      <webElementGuid>80c365da-2e01-4783-8aee-23884979520b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='IDR'])[3]/preceding::span[1]</value>
+      <webElementGuid>674d2d7e-8b5d-4e51-92ae-e037596ba93c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[8]/span[2]</value>
+      <webElementGuid>fcc1d124-06b3-4ee3-911e-c5d11b333062</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = '0,00' or . = '0,00')]</value>
+      <webElementGuid>cfb42703-bb14-4871-8493-c3a34c465e8f</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>input_Iter Prescription_p-inputtext p-component p-filled input-text w-3rem mr-2 text-right</name>
+   <tag></tag>
+   <elementGuidId>7e58dc71-0147-4fa2-92f3-08bb7482b0a1</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>input.p-inputtext.p-component.p-filled.input-text.w-3rem.mr-2.text-right</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>(//input[@value='1'])[2]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>input</value>
+      <webElementGuid>d62ceb2d-596a-42db-af0c-1b2b480be792</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>p-inputtext p-component p-filled input-text w-3rem mr-2 text-right</value>
+      <webElementGuid>7b392f4a-f130-43c9-b3a7-2ddd6f786cf1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>placeholder</name>
+      <type>Main</type>
+      <value>Enter amount</value>
+      <webElementGuid>d90d5c94-b4cb-45db-ba27-bc707f73c93e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>value</name>
+      <type>Main</type>
+      <value>1</value>
+      <webElementGuid>19207741-3acc-4bfb-97c6-09c6bdfe346e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;pr_id_683_content&quot;)/div[@class=&quot;grid&quot;]/div[@class=&quot;p-blockui-container&quot;]/form[1]/div[@class=&quot;grid m-0&quot;]/div[@class=&quot;col-12 text-right&quot;]/input[@class=&quot;p-inputtext p-component p-filled input-text w-3rem mr-2 text-right&quot;]</value>
+      <webElementGuid>a9f9916d-dc24-4b7f-93fe-b600bca6a6ef</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>(//input[@value='1'])[2]</value>
+      <webElementGuid>4cfc5916-0258-4c77-9023-eb6f2ad9d01c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='pr_id_683_content']/div/div/form/div/div[3]/input</value>
+      <webElementGuid>877e45c5-83ab-452d-a20d-b48dd5804985</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/input</value>
+      <webElementGuid>3ef2157a-886e-4548-b312-e64bdfa94000</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//input[@placeholder = 'Enter amount']</value>
+      <webElementGuid>9cfa2048-deb5-4857-a818-aecadfb74cdd</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

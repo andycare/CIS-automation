@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>label_total_net_amount2</name>
+   <tag></tag>
+   <elementGuidId>27f877ba-fa9d-400b-b794-24605a7d6d7f</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/div/div/div[2]/div[2]/div[6]/div/div/div/div[14]/span[2]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>9cecdae2-c76c-4dd1-87d8-bb4dc7adbed5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>text-value</value>
+      <webElementGuid>1aa75d81-1189-4e21-bc36-de8ada2d1ccf</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>159.500,00</value>
+      <webElementGuid>d8c0a8c1-72f2-4a0e-b042-da8e12d99f8f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[@class=&quot;layout-wrapper layout-static p-ripple-disabled layout-sidebar-darkgray&quot;]/div[@class=&quot;layout-content-wrapper&quot;]/div[@class=&quot;layout-content padding-out-content&quot;]/div[@class=&quot;p-blockui-container&quot;]/div[@class=&quot;card border-box&quot;]/div[@class=&quot;grid&quot;]/div[@class=&quot;col-12 md:col-6 p-0 md:p-3&quot;]/div[@class=&quot;grid p-0 m-0&quot;]/div[@class=&quot;col-8 px-2 py-2 text-value&quot;]/span[@class=&quot;text-value&quot;]</value>
+      <webElementGuid>827b9fdd-33bc-4701-b098-409420395607</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div/div/div[2]/div[2]/div[6]/div/div/div/div[14]/span[2]</value>
+      <webElementGuid>85fdeee4-abd6-4b5c-834c-a0dba602cb89</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='IDR'])[5]/following::span[1]</value>
+      <webElementGuid>105a7a74-4663-4449-a125-d44a9526d25f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Total Net Amount'])[1]/following::span[2]</value>
+      <webElementGuid>c22d0ef3-72c1-4a1a-8f5b-e2a53c69eef2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Transaction Status'])[1]/preceding::span[1]</value>
+      <webElementGuid>dbef065e-ea36-432c-87c3-1711108b584d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='On Process Payment'])[2]/preceding::span[1]</value>
+      <webElementGuid>da1312fd-c7dc-4278-93f8-b191ac97f586</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[14]/span[2]</value>
+      <webElementGuid>dc1bcda3-3dd2-4a92-9aa8-d30e21f2c694</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = '159.500,00' or . = '159.500,00')]</value>
+      <webElementGuid>25d4c695-22c9-4036-abb0-48c013550dde</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

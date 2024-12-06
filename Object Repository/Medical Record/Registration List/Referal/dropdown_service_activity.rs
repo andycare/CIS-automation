@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>dropdown_service_activity</name>
+   <tag></tag>
+   <elementGuidId>2ffa8c10-f384-4300-b6c6-88fdb085268a</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='branchServiceActivityId']/span</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>span.p-dropdown-label.p-inputtext.p-placeholder</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>a34a3bf4-b101-49e3-abe5-49d8da88600e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>p-dropdown-label p-inputtext p-placeholder</value>
+      <webElementGuid>d3e9d3cb-0a04-4092-ab05-6fe65446f736</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Choose activity</value>
+      <webElementGuid>9e6d7444-f044-4f26-8fb1-52adda2e0194</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;branchServiceActivityId&quot;)/span[@class=&quot;p-dropdown-label p-inputtext p-placeholder&quot;]</value>
+      <webElementGuid>c5b6977c-11f8-4e26-85bb-41a270362f67</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='branchServiceActivityId']/span</value>
+      <webElementGuid>3ef76094-81cc-4102-a14b-02121b5c1a51</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Service Activity'])[5]/following::span[1]</value>
+      <webElementGuid>027adc7c-a88c-438e-a11c-a73e2d99cb39</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Arya Rafi(Doctor)'])[2]/following::span[2]</value>
+      <webElementGuid>da5a4695-0407-4f6f-9739-73bb683af308</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Product Service'])[2]/preceding::span[2]</value>
+      <webElementGuid>d1924111-d2a1-462b-b992-289b2ac4fd9a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Search...'])[2]/preceding::span[2]</value>
+      <webElementGuid>17ce78fd-c9ef-4c51-b89f-827dd0713721</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div/div[5]/div[2]/div/span</value>
+      <webElementGuid>86a25b1b-fa4a-48cb-9395-9528e16201dc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Choose activity' or . = 'Choose activity')]</value>
+      <webElementGuid>d30108fc-7265-4e0b-9477-77f5fbc0c4b3</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

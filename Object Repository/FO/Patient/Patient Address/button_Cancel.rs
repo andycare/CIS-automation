@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_Cancel</name>
+   <tag></tag>
+   <elementGuidId>ba5a5bfc-217b-410d-a2ab-2cda00e65229</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.mr-3.flex.justify-content-end > button.p-button.p-component.p-button-other</value>
+      </entry>
+      <entry>
+         <key>BASIC</key>
+         <value>//button[@id = 'btn_cancel']</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//button[(text() = 'Cancel' or . = 'Cancel')]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>2b59c502-e02b-4493-a3ab-c7dadba0dad8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-label</name>
+      <type>Main</type>
+      <value>Cancel</value>
+      <webElementGuid>48950f75-219d-4baa-8845-110aaa03e3c4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>p-button p-component p-button-other</value>
+      <webElementGuid>9091f4d5-c3c8-4eb0-beec-872a3bf7bec2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-pc-name</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>15c8cd5f-09d8-425b-b392-5c1d4dbd120d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-pc-section</name>
+      <type>Main</type>
+      <value>root</value>
+      <webElementGuid>79583713-4c24-4ff2-b6be-c4cdce83d793</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Cancel</value>
+      <webElementGuid>7f4221b7-9c24-4084-96a2-d6d427140be8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;pr_id_10&quot;)/div[@class=&quot;p-dialog-footer&quot;]/div[@class=&quot;mr-3 flex justify-content-end&quot;]/button[@class=&quot;p-button p-component p-button-other&quot;]</value>
+      <webElementGuid>b79cb09f-ae42-4fea-bb53-e40ce3dd8555</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>btn_cancel</value>
+      <webElementGuid>81e8ca75-ee53-4d4f-ae20-f8ec0faeb8cf</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='pr_id_10']/div[3]/div/button</value>
+      <webElementGuid>87cd2093-db7c-4476-8bd6-feeb7ef82d9e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Please insert 1 - 15 numbers'])[1]/following::button[1]</value>
+      <webElementGuid>54f87152-1aa5-4167-a460-df7cf9ad99e6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Please insert 1 - 3 numbers'])[4]/following::button[1]</value>
+      <webElementGuid>d0632e2a-583d-43a8-96af-7f18410cae41</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Save'])[2]/preceding::button[1]</value>
+      <webElementGuid>75f001fd-3a43-4ea3-867d-294f090aa383</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/div/div[3]/div/button</value>
+      <webElementGuid>2411fd54-af45-454e-bd63-621a5bb553f0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[(text() = 'Cancel' or . = 'Cancel')]</value>
+      <webElementGuid>9d15f81a-240a-4e3d-8616-ba7ed28ecec0</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

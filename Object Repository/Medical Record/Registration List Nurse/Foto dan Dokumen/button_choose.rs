@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_choose</name>
+   <tag></tag>
+   <elementGuidId>be584653-0b3c-4420-9800-aac75129e9ca</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.field.grid.col-12.justify-content-end.p-0 > button.p-button.p-component.bg-border-netral.button-add</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>(//button[@type='submit'])[2]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>55f8c996-d0de-4ac2-ac02-295675c17cf5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-label</name>
+      <type>Main</type>
+      <value>Choose Files</value>
+      <webElementGuid>b2baba2b-887d-42f8-a650-82016d0c5107</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>submit</value>
+      <webElementGuid>753c9992-746f-4fe9-9c2a-5efcfeb48331</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>p-button p-component bg-border-netral button-add</value>
+      <webElementGuid>ac050ed2-7dca-4fc6-a7ef-d1fd1007ebb9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Choose Files</value>
+      <webElementGuid>79c3df8e-931c-4a1e-b20f-c614b99953ca</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;pr_id_139_content_2&quot;)/div[@class=&quot;col-12 xl:col-12 p-0&quot;]/form[1]/div[@class=&quot;field grid col-12 justify-content-end p-0&quot;]/button[@class=&quot;p-button p-component bg-border-netral button-add&quot;]</value>
+      <webElementGuid>df9e8359-eed3-4d35-8e6f-5573bfe1d300</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>(//button[@type='submit'])[2]</value>
+      <webElementGuid>8c897d8c-dc3b-4585-973f-ca066a4086cc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='pr_id_139_content_2']/div/form/div[3]/button</value>
+      <webElementGuid>f51b18f9-ff55-4031-909c-f5676f597494</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='tes'])[1]/following::button[1]</value>
+      <webElementGuid>c700cf67-ab5d-4dc8-af7d-3b2133d8260b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='*'])[3]/following::button[1]</value>
+      <webElementGuid>16ce562a-3f6c-47fe-b8c2-6b2bbbf19d5b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Photo'])[1]/preceding::button[1]</value>
+      <webElementGuid>f696f956-bc3c-400e-9a27-e6bb04ce4cb4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//form/div[3]/button</value>
+      <webElementGuid>01cedbf4-04e4-4843-a808-72d7b4c85649</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[@type = 'submit' and (text() = 'Choose Files' or . = 'Choose Files')]</value>
+      <webElementGuid>64af8a45-cd37-4e5a-891c-9a4424f5c5c6</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

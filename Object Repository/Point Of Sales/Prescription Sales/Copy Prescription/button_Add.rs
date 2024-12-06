@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_Add</name>
+   <tag></tag>
+   <elementGuidId>a2bb87cb-6c6f-4a4c-884a-7424cc4e7fe8</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//button[@class = 'p-button p-component mr-2 mb-2 justify-content-center p-button-netral-reguler' and (text() = 'Add' or . = 'Add')]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.col-12.p-0.mb-2 > button.p-button.p-component.mr-2.mb-2.justify-content-center.p-button-netral-reguler</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='pr_id_15_content']/div[3]/div/button[2]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>a1d26f05-fe68-4a4e-9d4d-809af101cd02</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>p-button p-component mr-2 mb-2 justify-content-center p-button-netral-reguler</value>
+      <webElementGuid>7368b8f6-f721-4898-a79e-950ee299275a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Add</value>
+      <webElementGuid>1efbdd55-ea1c-4edb-ac0b-07b7e16f0b84</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;pr_id_15_content&quot;)/div[@class=&quot;col-12 p-0 mt-4&quot;]/div[@class=&quot;col-12 p-0 mb-2&quot;]/button[@class=&quot;p-button p-component mr-2 mb-2 justify-content-center p-button-netral-reguler&quot;]</value>
+      <webElementGuid>46a73cc5-00c2-493a-9ec4-93e2dcd70c72</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='pr_id_15_content']/div[3]/div/button[2]</value>
+      <webElementGuid>127ca02b-48a6-45c6-8397-6c858968e33b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Delete'])[2]/following::button[1]</value>
+      <webElementGuid>d90d5831-ed3d-4e94-b6dd-dec25240eb34</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='iter'])[1]/following::button[2]</value>
+      <webElementGuid>b8efac07-f4e5-4fae-bb80-e328806025aa</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='No'])[2]/preceding::button[1]</value>
+      <webElementGuid>22c0379f-2281-4530-801a-74fcee1dc9f6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div[3]/div/button[2]</value>
+      <webElementGuid>9cf47e51-9e77-44cf-8691-ecfe37edffbd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[(text() = 'Add' or . = 'Add')]</value>
+      <webElementGuid>aea0cc87-dcb7-4ae4-b1e4-a982590adc1c</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

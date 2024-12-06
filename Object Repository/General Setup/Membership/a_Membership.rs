@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Membership</name>
+   <tag></tag>
+   <elementGuidId>47aa2475-8804-4f87-8715-6f5986ef2abb</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/div/div/div/div[2]/div/ul/li/ul/li[2]/ul/li/a</value>
+      </entry>
+      <entry>
+         <key>BASIC</key>
+         <value>//*[(text() = 'Membership' or . = 'Membership')]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>ul.bg-netral.layout-menu.menu-item-bg-netral-enter-done > li > a.p-ripple</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>517f0f56-0257-4e8b-9bca-4965756862f7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>p-ripple</value>
+      <webElementGuid>9aa23ab0-347b-47ac-b141-7cb7afb0fd22</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>#/membership</value>
+      <webElementGuid>fc53adf5-c61e-4832-b7b5-a398f3d15e94</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Membership</value>
+      <webElementGuid>6429fd23-3f9b-4eb1-a578-819ba4ff73ed</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[@class=&quot;layout-wrapper layout-static p-ripple-disabled layout-sidebar-darkgray&quot;]/div[@class=&quot;layout-content-wrapper&quot;]/div[@class=&quot;layout-topbar&quot;]/div[@class=&quot;layout-sidebar&quot;]/div[@class=&quot;layout-menu-container bg-border-netral&quot;]/ul[@class=&quot;layout-menu bg-netral&quot;]/li[@class=&quot;layout-root-menuitem&quot;]/ul[@class=&quot;layout-menu bg-netral&quot;]/li[@class=&quot;active-menuitem&quot;]/ul[@class=&quot;bg-netral layout-menu menu-item-bg-netral-enter-done&quot;]/li[1]/a[@class=&quot;p-ripple&quot;]</value>
+      <webElementGuid>f0436f0a-383d-4330-8342-99b7d557f180</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div/div/div/div[2]/div/ul/li/ul/li[2]/ul/li/a</value>
+      <webElementGuid>2df8387b-663a-4a75-bc48-07f719733ec2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Marketing'])[1]/following::a[1]</value>
+      <webElementGuid>5d559bb2-6af6-4143-9c67-cb0b679904b1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Common Master'])[1]/following::a[2]</value>
+      <webElementGuid>d1222b81-8296-42b8-9999-87fd6904fdcd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Referral Incentive'])[1]/preceding::a[1]</value>
+      <webElementGuid>0ef5d5d8-2313-493d-8167-321e63b90420</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, '#/membership')]</value>
+      <webElementGuid>6c42fce0-a227-4dce-bc82-bd8970a10462</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li[2]/ul/li/a</value>
+      <webElementGuid>0cbcce78-d116-4947-9afa-04f3d3c9a5df</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = '#/membership' and (text() = 'Membership' or . = 'Membership')]</value>
+      <webElementGuid>210bb3ad-d56c-4992-9ad0-934b384b40ab</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

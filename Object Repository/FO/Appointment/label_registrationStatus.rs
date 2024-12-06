@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>label_registrationStatus</name>
+   <tag></tag>
+   <elementGuidId>1c2962a5-5b95-4293-a5fd-ae5289d47472</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/div/div/div[2]/div[3]/form/div/div[2]/div/div[2]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>5b695696-8ced-4f67-8b4d-d20c0343c06d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>col-8 text-value p-2</value>
+      <webElementGuid>bf5cbd43-0964-40e6-adb6-826df1c607c6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Waiting</value>
+      <webElementGuid>f4206d4f-cfdf-47dd-9934-f69d1e4b4c1c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[@class=&quot;layout-wrapper layout-static p-ripple-disabled layout-sidebar-darkgray&quot;]/div[@class=&quot;layout-content-wrapper&quot;]/div[@class=&quot;layout-content padding-out-content&quot;]/div[@class=&quot;p-blockui-container&quot;]/form[1]/div[@class=&quot;grid border-box py-4&quot;]/div[@class=&quot;col-12 md:col-6 py-0&quot;]/div[@class=&quot;grid m-0&quot;]/div[@class=&quot;col-8 text-value p-2&quot;]</value>
+      <webElementGuid>a899d1b9-e33e-4b75-9487-680da7f7cb62</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div/div/div[2]/div[3]/form/div/div[2]/div/div[2]</value>
+      <webElementGuid>d68c085e-5635-4878-a596-fcf272ba6d5e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Status'])[1]/following::div[1]</value>
+      <webElementGuid>58348f54-c2cf-46b5-a14b-78cc213c2eee</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Offline'])[1]/following::div[4]</value>
+      <webElementGuid>ddcf56aa-ec80-482c-8132-1a49f4c75ae4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Registration Source'])[1]/preceding::div[1]</value>
+      <webElementGuid>732574a6-e265-4dc8-8961-dc0186a438a5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='CIS'])[1]/preceding::div[2]</value>
+      <webElementGuid>1b5c88f7-e99d-406c-9d82-2d13ec3e4f20</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Waiting']/parent::*</value>
+      <webElementGuid>26323271-e6cf-4bd8-bf34-b36df7291ae5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//form/div/div[2]/div/div[2]</value>
+      <webElementGuid>da05a5b5-c047-4244-a31b-16658333a295</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Waiting' or . = 'Waiting')]</value>
+      <webElementGuid>897e4d94-0352-4e0a-a208-a1f0575b8d0d</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

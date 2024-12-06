@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<DataFileEntity>
+   <description></description>
+   <name>registration_data</name>
+   <tag></tag>
+   <connectionProperties/>
+   <containsHeaders>true</containsHeaders>
+   <csvSeperator></csvSeperator>
+   <dataFileGUID>50f61448-3f66-4814-8612-1f0670317488</dataFileGUID>
+   <dataSourceUrl></dataSourceUrl>
+   <driver>InternalData</driver>
+   <data>New+Patient+Registration+%28Consultation%29 Consultation+Skin Regular dr.+Anna+Juniawati+Putri+Gunawan%2C+Sp.DVE Acne+Scar+Solution+-+Acne+Finale+Acne+Scar+Program Consultation+Room+1+-+17%3A40%3A00+-+17%3A50%3A00 Consultation+Room+1+-+17%3A40+-+17%3A50</data>
+   <data>New+Patient+Registration+%28Regular+Treatment%29 Reguler+Treatment Regular null Single+Blue+Light+Therapy Regular+Treatment+Room+2+-+19%3A00%3A00+-+19%3A30%3A00 Regular+Treatment+Room+2+-+19%3A00+-+19%3A30</data>
+   <data>New+Patient+Registration+%28Treatment%29 Treatment Regular dr.+Anna+Juniawati+Putri+Gunawan%2C+Sp.DVE Single+Skin+Treatment+by+CO2+Laser+Grade+A Treatment+Room+1+-+19%3A50%3A00+-+20%3A00%3A00 Treatment+Room+1+-+19%3A50+-+20%3A00</data>
+   <data>Pharmacy+Only Pharmacy+Only null null null null null</data>
+   <data>null null null null null null null</data>
+   <data>null null null null null null null</data>
+   <internalDataColumns>
+      <columnIndex>0</columnIndex>
+      <name>note</name>
+      <size>6</size>
+   </internalDataColumns>
+   <internalDataColumns>
+      <columnIndex>1</columnIndex>
+      <name>Service_activity</name>
+      <size>6</size>
+   </internalDataColumns>
+   <internalDataColumns>
+      <columnIndex>2</columnIndex>
+      <name>Reservation_Type</name>
+      <size>6</size>
+   </internalDataColumns>
+   <internalDataColumns>
+      <columnIndex>3</columnIndex>
+      <name>Doctor</name>
+      <size>6</size>
+   </internalDataColumns>
+   <internalDataColumns>
+      <columnIndex>4</columnIndex>
+      <name>Product_service</name>
+      <size>6</size>
+   </internalDataColumns>
+   <internalDataColumns>
+      <columnIndex>5</columnIndex>
+      <name>Room_schedule</name>
+      <size>6</size>
+   </internalDataColumns>
+   <internalDataColumns>
+      <columnIndex>6</columnIndex>
+      <name>schedule</name>
+      <size>6</size>
+   </internalDataColumns>
+   <isInternalPath>false</isInternalPath>
+   <query></query>
+   <secureUserAccount>false</secureUserAccount>
+   <sheetName></sheetName>
+   <usingGlobalDBSetting>false</usingGlobalDBSetting>
+</DataFileEntity>

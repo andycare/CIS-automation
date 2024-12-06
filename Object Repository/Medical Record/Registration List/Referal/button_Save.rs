@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_Save</name>
+   <tag></tag>
+   <elementGuidId>00a31ec2-bd09-42ec-a8d4-4860efdc138f</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.p-dialog-footer > div > button.p-button.p-component.p-button-netral</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='pr_id_196']/div[3]/div/button[2]</value>
+      </entry>
+      <entry>
+         <key>BASIC</key>
+         <value>//button[@aria-label = 'Save' and @class = 'p-button p-component p-button-netral' and (text() = 'Save' or . = 'Save')]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>38ab47c6-1ce2-4a35-adc3-d964ae4a14ca</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-label</name>
+      <type>Main</type>
+      <value>Save</value>
+      <webElementGuid>45db7e0f-1d56-4162-8625-53f1cae28bd3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>p-button p-component p-button-netral</value>
+      <webElementGuid>78a8e21b-2b20-4de0-a2c2-cea41a3adb25</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Save</value>
+      <webElementGuid>aa8dd71f-488d-42b4-ac5b-0bb87f82b6e7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;pr_id_196&quot;)/div[@class=&quot;p-dialog-footer&quot;]/div[1]/button[@class=&quot;p-button p-component p-button-netral&quot;]</value>
+      <webElementGuid>5d0ae268-2d15-4d52-a3b4-ff1dd2587ff5</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='pr_id_196']/div[3]/div/button[2]</value>
+      <webElementGuid>cda0a7a5-c34e-4fcc-a467-6ab6ae5305e5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Cancel'])[1]/following::button[1]</value>
+      <webElementGuid>18771554-f1cd-450f-a210-60e6caaa2772</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Week'])[2]/following::button[2]</value>
+      <webElementGuid>7e176ba2-9be9-4b10-897c-60f4cd942d35</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Save &amp; Registration'])[1]/preceding::button[1]</value>
+      <webElementGuid>32cf95f7-0d39-4423-84a0-3d4348c5cf04</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/div/div[3]/div/button[2]</value>
+      <webElementGuid>f34fb1ea-004d-4fef-803c-dec3175cf57b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[(text() = 'Save' or . = 'Save')]</value>
+      <webElementGuid>b207619e-7067-46fb-9b1e-4ef4704bed70</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

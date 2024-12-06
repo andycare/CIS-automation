@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Delete Patient Document</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>a272ba8b-1d54-4cc6-bf6b-713b2b4de1c2</testCaseGuid>
+</TestCaseEntity>

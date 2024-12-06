@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>txt_birthplace</name>
+   <tag></tag>
+   <elementGuidId>42c02b2b-bd6f-406b-a888-d617e432f820</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//*[@id = '5' and @name = 'patientBirthplace' and @type = 'text']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>5</value>
+      <webElementGuid>338fed24-541b-4fe5-bb68-6bbf03f4ac77</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>name</name>
+      <type>Main</type>
+      <value>patientBirthplace</value>
+      <webElementGuid>309674b5-98eb-41bb-b23a-df5894f5128b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>text</value>
+      <webElementGuid>2b00f6ba-37be-4a08-9a64-a999bb64cb56</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

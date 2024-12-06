@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>dropdown_unit</name>
+   <tag></tag>
+   <elementGuidId>d45c0caa-936e-4079-ab35-b07073c03065</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.p-inputgroup.mt-2.mr-2.h-33 > div.p-dropdown.p-component.p-inputwrapper.input-dropdown > span.p-dropdown-label.p-inputtext.p-placeholder</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='pr_id_15_content']/div[2]/div/div/div[6]/div/div/span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>7765c428-a3df-414e-b8f4-5a4fc79c709d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>p-dropdown-label p-inputtext p-placeholder</value>
+      <webElementGuid>8c637180-145a-4a91-8602-978fe15ca992</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Select</value>
+      <webElementGuid>dc4a73b4-8cae-4122-9504-b2ee7724c900</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;pr_id_15_content&quot;)/div[@class=&quot;grid mt-2 m-0 p-0&quot;]/div[@class=&quot;col-12 md:col-6 py-0&quot;]/div[@class=&quot;grid m-0 p-0 align-items-center&quot;]/div[@class=&quot;col-8 py-2 px-0&quot;]/div[@class=&quot;p-inputgroup mt-2 mr-2 h-33&quot;]/div[@class=&quot;p-dropdown p-component p-inputwrapper input-dropdown&quot;]/span[@class=&quot;p-dropdown-label p-inputtext p-placeholder&quot;]</value>
+      <webElementGuid>6776a2af-7b1e-4032-bc98-f3911980c921</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='pr_id_15_content']/div[2]/div/div/div[6]/div/div/span</value>
+      <webElementGuid>fb542a2b-f46a-460b-9675-d04c6adae99b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='*'])[4]/following::span[1]</value>
+      <webElementGuid>f97b7976-c769-4bc6-a5d8-1a72952351f5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='*'])[5]/preceding::span[2]</value>
+      <webElementGuid>a00d3a47-f758-4c1b-8976-c8ca40e457c5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[6]/div/div/span</value>
+      <webElementGuid>6b881084-4c12-4e8e-b846-d95d083bb1d6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Select' or . = 'Select')]</value>
+      <webElementGuid>57bec210-45f9-4863-b3db-316466bfce98</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

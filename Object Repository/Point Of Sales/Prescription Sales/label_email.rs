@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>label_email</name>
+   <tag></tag>
+   <elementGuidId>74740f55-3430-48b8-a6ed-2db789278db9</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/div/div/div[2]/div[3]/div[2]/div/div[4]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>49dea77a-a768-41b8-aece-7ba2688a8e71</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>col-8 px-0 py-2 text-body-2</value>
+      <webElementGuid>29b2a9ce-0c4a-48a7-b736-80a68c8013eb</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>at@ati.com</value>
+      <webElementGuid>6ee0489f-8a53-400d-82d0-3bcf4528e55c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[@class=&quot;layout-wrapper layout-static p-ripple-disabled layout-sidebar-darkgray&quot;]/div[@class=&quot;layout-content-wrapper&quot;]/div[@class=&quot;layout-content padding-out-content&quot;]/div[@class=&quot;grid card border-box&quot;]/div[@class=&quot;col-12 md:col-6 p-0 md:p-3&quot;]/div[@class=&quot;grid p-0 m-0&quot;]/div[@class=&quot;col-8 px-0 py-2 text-body-2&quot;]</value>
+      <webElementGuid>ee20ae58-0927-468a-b01e-97de798c4ddb</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div/div/div[2]/div[3]/div[2]/div/div[4]</value>
+      <webElementGuid>1a89d426-c66c-4861-9de6-8bf0abede8e7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Email'])[1]/following::div[1]</value>
+      <webElementGuid>6962c800-1238-48dc-a3b5-41d3c2856628</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Phone No'])[1]/following::div[3]</value>
+      <webElementGuid>a8ddfcb8-e0fe-4b3c-9d6e-1cd93b4ade27</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Address'])[1]/preceding::div[1]</value>
+      <webElementGuid>29964873-42ae-426a-9ba5-92bf821f09fa</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='coba'])[1]/preceding::div[2]</value>
+      <webElementGuid>1f43af91-9ff5-4d8a-b933-4b716ded1d2f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='at@ati.com']/parent::*</value>
+      <webElementGuid>183894c6-d3fd-4cd0-9f30-fa831c32e338</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/div[2]/div/div[4]</value>
+      <webElementGuid>0e54ef6c-d345-4af9-b0c0-bfdc7d1b9a50</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'at@ati.com' or . = 'at@ati.com')]</value>
+      <webElementGuid>ac32e141-dc4a-457d-8237-d391f4a9f33b</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

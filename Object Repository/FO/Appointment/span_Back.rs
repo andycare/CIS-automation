@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Back</name>
+   <tag></tag>
+   <elementGuidId>d16cf538-c705-4475-822a-6e4f3fdf2d21</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>button.p-button.p-component.mr-2.mb-2.p-button-other-small.justify-content-center > span.p-button-label.p-c</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/div/div/div[2]/div[2]/form/div[2]/div/button/span[2]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>0cc6b357-4f59-4cec-8f66-3cbf8478f29c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>p-button-label p-c</value>
+      <webElementGuid>aa12bb1e-38b7-49ff-a79d-ba28175a5922</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Back</value>
+      <webElementGuid>9a540173-bf0f-4222-8941-f47335aa9b9b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[@class=&quot;layout-wrapper layout-static p-ripple-disabled layout-sidebar-darkgray&quot;]/div[@class=&quot;layout-content-wrapper&quot;]/div[@class=&quot;layout-content padding-out-content&quot;]/div[@class=&quot;col-12 xl:col-12 p-0&quot;]/form[1]/div[@class=&quot;flex flex-row-reverse flex-wrap mb-8&quot;]/div[@class=&quot;flex align-items-center justify-content-center text-gray-900 m-2&quot;]/button[@class=&quot;p-button p-component mr-2 mb-2 p-button-other-small justify-content-center&quot;]/span[@class=&quot;p-button-label p-c&quot;]</value>
+      <webElementGuid>c9f5fa9e-f9b9-46c1-b57e-4ebcae24c9c7</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div/div/div[2]/div[2]/form/div[2]/div/button/span[2]</value>
+      <webElementGuid>a161bf15-a289-42ad-bd60-5f172abe8f42</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='*'])[5]/following::span[2]</value>
+      <webElementGuid>66f4896f-78d0-4725-8ecd-8759376584b4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Next'])[1]/preceding::span[2]</value>
+      <webElementGuid>d6c36718-600c-428b-bca0-279d173ed9b6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Klinik Utama Erha Ultimate BSD'])[3]/preceding::span[5]</value>
+      <webElementGuid>9cad9146-c67c-4786-9b43-e11dffd5da51</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Back']/parent::*</value>
+      <webElementGuid>7cab4ac2-3d08-4c9c-9050-38817577103b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div/button/span[2]</value>
+      <webElementGuid>a6d49ba2-4d6b-40d8-a465-f81cf83956fb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Back' or . = 'Back')]</value>
+      <webElementGuid>aebe75bb-c4d8-48c7-b73f-aa928083ec40</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

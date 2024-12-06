@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Edit Membership - Inactive Membership Status</description>
+   <name>Edit Membership - Inactive Membership Status</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>90424ab8-2c23-4429-98aa-7abf5c1b387d</testCaseGuid>
+</TestCaseEntity>

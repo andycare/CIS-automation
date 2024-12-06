@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>textbox_staffname</name>
+   <tag></tag>
+   <elementGuidId>1dc5fbc4-509c-42d9-b013-d451e3bc08c4</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[2]/div/div/div[4]/div[2]</value>
+      </entry>
+      <entry>
+         <key>BASIC</key>
+         <value>//div[@id = 'medicalStaffId']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>8b02eb85-a213-427f-b20c-843ae2bdbf84</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>col-12 md:col-8 px-0</value>
+      <webElementGuid>c1b0064d-26f4-47da-852b-2666e6b43207</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>AutoDokAutoDok</value>
+      <webElementGuid>cee7f91d-55f2-42be-b733-ace572998ee2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;pr_id_79_content&quot;)/div[@class=&quot;grid&quot;]/div[@class=&quot;col ml-2 px-0&quot;]/div[@class=&quot;grid formgrid col-12 p-0 mb-3&quot;]/div[@class=&quot;col-12 md:col-8 px-0&quot;]</value>
+      <webElementGuid>5530b324-12b9-4974-9036-0cc4bdf518dd</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>medicalStaffId</value>
+      <webElementGuid>cc1970d0-f274-4b8b-838d-2d266f97e60a</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='pr_id_79_content']/div/div/div[4]/div[2]</value>
+      <webElementGuid>c3e51a9f-873c-424e-8b2c-aa882e9fead3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Medical Staff Name'])[1]/following::div[1]</value>
+      <webElementGuid>9b515e0c-f8cb-4c2d-9aa1-b304186764da</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Therapist/Nurse'])[1]/following::div[3]</value>
+      <webElementGuid>7ebaec8e-22ae-4192-8205-d3a6f1fbeb35</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Date'])[2]/preceding::div[5]</value>
+      <webElementGuid>4fa4fa33-1931-4897-ab58-3ddc007f42dd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div/div[4]/div[2]</value>
+      <webElementGuid>1fa19750-cd38-4dc6-b035-d67d25dea1e2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'AutoDokAutoDok' or . = 'AutoDokAutoDok')]</value>
+      <webElementGuid>51a1c64a-219b-4cb3-ae44-f38688650c33</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

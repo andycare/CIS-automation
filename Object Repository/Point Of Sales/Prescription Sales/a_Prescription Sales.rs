@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Prescription Sales</name>
+   <tag></tag>
+   <elementGuidId>0116b9c3-fff4-40a2-800a-a442ada24611</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#prescriptionsales > a.p-ripple</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//li[@id='prescriptionsales']/a</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>d1b131fd-901b-4f22-bbec-0ba27f6b9260</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>p-ripple</value>
+      <webElementGuid>9b9b410c-dc95-4198-bc81-0e1ca68517da</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>#/prescription-sales</value>
+      <webElementGuid>4ac192a1-edaa-43f2-ac21-c6d907679e5b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Prescription Sales</value>
+      <webElementGuid>a9c8e35b-2952-452f-b6c5-fb428f8446a2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;prescriptionsales&quot;)/a[@class=&quot;p-ripple&quot;]</value>
+      <webElementGuid>d72f4f07-88f1-4cde-87c5-38f57ae32baa</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//li[@id='prescriptionsales']/a</value>
+      <webElementGuid>84b3b0d7-e255-40d4-b11f-16717cf46356</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Direct Sales'])[1]/following::a[1]</value>
+      <webElementGuid>661d1422-8f14-44e0-bde6-3501ec6ac7f1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Point of Sales'])[1]/following::a[2]</value>
+      <webElementGuid>007a6b72-3cf8-4fb8-b0f2-14bde507bb27</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Services Sales'])[1]/preceding::a[1]</value>
+      <webElementGuid>81ba6a29-a32e-4b27-a020-ac2d5ffc9ae6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, '#/prescription-sales')]</value>
+      <webElementGuid>b7649d8b-11aa-4e06-8033-99400b48ad20</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li[3]/ul/li[2]/a</value>
+      <webElementGuid>3d68256a-395c-4539-a5cc-9a83691d7357</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = '#/prescription-sales' and (text() = 'Prescription Sales' or . = 'Prescription Sales')]</value>
+      <webElementGuid>f19e6c6c-c599-40fa-b47d-fc702a28cdd0</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

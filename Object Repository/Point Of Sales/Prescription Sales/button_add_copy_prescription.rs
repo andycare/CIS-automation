@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_add_copy_prescription</name>
+   <tag></tag>
+   <elementGuidId>18baa74f-a503-4536-9bf5-1a6cb3ca7f54</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>button.p-button.p-component.mr-2.mb-2.justify-content-center.p-button-netral-reguler</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/div/div/div[2]/div[4]/div/div/button</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>f934779b-1175-4523-812f-6f5f6f8b7407</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>p-button p-component mr-2 mb-2 justify-content-center p-button-netral-reguler</value>
+      <webElementGuid>a168e2e7-6e77-442e-8b6d-e256be10063a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Add Copy Prescription</value>
+      <webElementGuid>c22947b3-48de-493b-9099-ccce55100b6f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[@class=&quot;layout-wrapper layout-static p-ripple-disabled layout-sidebar-darkgray&quot;]/div[@class=&quot;layout-content-wrapper&quot;]/div[@class=&quot;layout-content padding-out-content&quot;]/div[@class=&quot;card border-box mt-3 mb-5&quot;]/div[@class=&quot;grid p-0 m-0&quot;]/div[@class=&quot;col-12 md:col-5 align-items-center flex mb-2&quot;]/button[@class=&quot;p-button p-component mr-2 mb-2 justify-content-center p-button-netral-reguler&quot;]</value>
+      <webElementGuid>29eb69c6-b5c9-4d7b-8959-396cc11accab</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div/div/div[2]/div[4]/div/div/button</value>
+      <webElementGuid>b4d538d8-c57b-4b1b-b5a9-acd6d242b536</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Prescription Info'])[1]/following::button[1]</value>
+      <webElementGuid>a5bd0be2-4479-423f-87bf-79251deea5a8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Preference Note'])[1]/following::button[1]</value>
+      <webElementGuid>4e003fc8-49e5-4a46-884d-b3b7808916f3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Delete'])[1]/preceding::button[1]</value>
+      <webElementGuid>feb4f1bc-0737-4c3a-b2ee-8b799f1a5506</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[4]/div/div/button</value>
+      <webElementGuid>cb2264ed-f48b-410c-aeef-513c970a1d75</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[(text() = 'Add Copy Prescription' or . = 'Add Copy Prescription')]</value>
+      <webElementGuid>67abd498-767d-40bc-9962-55886eb7d27a</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

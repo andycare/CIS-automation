@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>dt</name>
+   <tag></tag>
+   <elementGuidId>e253b00d-61c8-4a98-8442-c13973e54612</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//*[@id=&quot;root&quot;]/div/div[1]/div[2]/div[2]/form/div[1]/div[2]/div[1]/div/div/div[2]/div/div/span/button</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//*[@id=&quot;root&quot;]/div/div[1]/div[2]/div[2]/form/div[1]/div[2]/div[1]/div/div/div[2]/div/div/span/button</value>
+      <webElementGuid>236384d9-e776-4c1c-afcf-08c98d63705e</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

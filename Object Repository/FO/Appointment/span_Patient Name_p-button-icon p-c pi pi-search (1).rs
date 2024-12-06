@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Patient Name_p-button-icon p-c pi pi-search (1)</name>
+   <tag></tag>
+   <elementGuidId>639d0121-4262-49af-89a0-bba77e047a7f</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>span.p-button-icon.p-c.pi.pi-search</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/div/div/div[2]/div[2]/div/div[2]/div[3]/div/button/span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>03416d1f-f951-4b91-9134-94eadbafea37</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>p-button-icon p-c pi pi-search</value>
+      <webElementGuid>fe9148ba-6a93-49e3-a256-df049096364c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[@class=&quot;layout-wrapper layout-static p-ripple-disabled layout-sidebar-darkgray&quot;]/div[@class=&quot;layout-content-wrapper&quot;]/div[@class=&quot;layout-content padding-out-content&quot;]/div[@class=&quot;p-blockui-container&quot;]/div[@class=&quot;card border-box mb-3&quot;]/div[@class=&quot;grid col-12 p-0 mb-3&quot;]/div[@class=&quot;col-6 pr-6 pl-0&quot;]/div[@class=&quot;p-inputgroup mt-2 mr-2 h-33&quot;]/button[@class=&quot;p-button p-component bg-border-netral button-netral p-button-icon-only&quot;]/span[@class=&quot;p-button-icon p-c pi pi-search&quot;]</value>
+      <webElementGuid>62a03799-a2f4-48ac-85cb-dc260d0a1411</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div/div/div[2]/div[2]/div/div[2]/div[3]/div/button/span</value>
+      <webElementGuid>3b172751-e580-423a-b558-fd3d47c11e55</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div/button/span</value>
+      <webElementGuid>ef94f18a-cb6e-417f-a23f-52184339fa4e</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

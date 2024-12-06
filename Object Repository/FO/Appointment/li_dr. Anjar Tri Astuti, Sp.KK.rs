@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>li_dr. Anjar Tri Astuti, Sp.KK</name>
+   <tag></tag>
+   <elementGuidId>d97395b2-8750-469a-8950-8d8c94d484bf</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='titis doctor'])[1]/following::li[1]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>li</value>
+      <webElementGuid>6f205439-1fd7-453c-8eaf-ff974162da73</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>p-dropdown-item</value>
+      <webElementGuid>8afba494-dc6b-487c-87f4-697413938737</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-label</name>
+      <type>Main</type>
+      <value>dr. Anjar Tri Astuti, Sp.KK</value>
+      <webElementGuid>d39240e1-5be8-4aa3-b0fa-1b6665c59ac9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>role</name>
+      <type>Main</type>
+      <value>option</value>
+      <webElementGuid>1996c5a1-3c09-4191-bb58-096b7449a6b1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-selected</name>
+      <type>Main</type>
+      <value>false</value>
+      <webElementGuid>ff8e28ac-9f55-4471-a042-60b851d0dbf3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>dr. Anjar Tri Astuti, Sp.KK</value>
+      <webElementGuid>4e070616-624a-4da5-9752-4e6fb2731b05</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[1]/div[@class=&quot;p-dropdown-panel p-component p-connected-overlay-enter-done&quot;]/div[@class=&quot;p-dropdown-items-wrapper&quot;]/ul[@class=&quot;p-dropdown-items&quot;]/li[@class=&quot;p-dropdown-item&quot;]</value>
+      <webElementGuid>5355ecc0-9f5e-455d-9874-6c91023958c6</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='titis doctor'])[1]/following::li[1]</value>
+      <webElementGuid>b5e29f5f-0d54-4dc8-b681-958c50c1205f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='dr. Aida Iskandar'])[1]/following::li[2]</value>
+      <webElementGuid>cc770e2e-8804-4e7c-8f7a-9b3e12fb0dcc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Ana'])[1]/preceding::li[1]</value>
+      <webElementGuid>ff932bfc-9317-4af3-863c-4cc6248844ce</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='dr.a'])[1]/preceding::li[2]</value>
+      <webElementGuid>ddcfd234-8fb7-44cf-948e-e58a67eb2a55</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='dr. Anjar Tri Astuti, Sp.KK']/parent::*</value>
+      <webElementGuid>a53b04a9-209b-48aa-8fae-43bbb7adb47d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/ul/li[4]</value>
+      <webElementGuid>6de9790a-a709-44ee-b04b-4ca37d0e7b53</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//li[(text() = 'dr. Anjar Tri Astuti, Sp.KK' or . = 'dr. Anjar Tri Astuti, Sp.KK')]</value>
+      <webElementGuid>273649bd-04a3-4fa3-9962-802a1cc0a877</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_Yes</name>
+   <tag></tag>
+   <elementGuidId>fca704c3-3eba-4da1-9d12-27e9b1155e09</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>button.p-button.p-component.p-button-netral.button-netral.mr-0</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='pr_id_204']/div[3]/button[2]</value>
+      </entry>
+      <entry>
+         <key>BASIC</key>
+         <value>//button[@aria-label = 'Yes' and @class = 'p-button p-component p-button-netral button-netral mr-0' and (text() = 'Yes' or . = 'Yes')]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>57e9c8cf-c88e-4ecd-9bc6-fe159c4f4889</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-label</name>
+      <type>Main</type>
+      <value>Yes</value>
+      <webElementGuid>dd36625d-86a2-4706-90bc-ef9a1dffe1bf</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>p-button p-component p-button-netral button-netral mr-0</value>
+      <webElementGuid>d447b7ab-c3b3-46f3-b9be-ccc5af8c9d62</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Yes</value>
+      <webElementGuid>ad88700a-cb33-4f2b-8de1-d71673157975</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;pr_id_204&quot;)/div[@class=&quot;p-dialog-footer&quot;]/button[@class=&quot;p-button p-component p-button-netral button-netral mr-0&quot;]</value>
+      <webElementGuid>d2ed55d0-f8f1-4c0f-a1ac-7a517ec8dade</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='pr_id_204']/div[3]/button[2]</value>
+      <webElementGuid>105ca913-d39b-4402-b062-1d5fe5ebf812</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Cancel'])[1]/following::button[1]</value>
+      <webElementGuid>7333c0fb-e360-44ad-aec3-3837f6cbaaa9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Are you sure you have completed and want to submit this service activity?'])[1]/following::button[2]</value>
+      <webElementGuid>3062fdaf-7449-4151-bce0-4f3a666cd166</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/button[2]</value>
+      <webElementGuid>234c37eb-81a3-4c95-83ed-93bb954999d5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[(text() = 'Yes' or . = 'Yes')]</value>
+      <webElementGuid>bf48e79c-ad07-441f-b41a-75b1481a26ff</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

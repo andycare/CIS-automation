@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Upload File</name>
+   <tag></tag>
+   <elementGuidId>092fd72a-b243-4e21-b26d-ef535b1f250c</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>span.p-button.p-fileupload-choose.p-component.file-upload</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//span[(text() = 'Upload File' or . = 'Upload File')]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>78d7ac14-19ba-437a-b153-6c55f007e651</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>p-button p-fileupload-choose p-component file-upload</value>
+      <webElementGuid>e23b32a5-7320-4fa9-980a-42753522b300</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tabindex</name>
+      <type>Main</type>
+      <value>0</value>
+      <webElementGuid>e92b9470-9dbd-40e9-ad15-fc065a23cadf</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-pc-section</name>
+      <type>Main</type>
+      <value>choosebutton</value>
+      <webElementGuid>32d8fceb-421b-48ec-bdf5-b7409b118dae</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Upload File</value>
+      <webElementGuid>39d037e9-3ef5-47ba-8518-3cffafd9951c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;pr_id_12_content&quot;)/div[@class=&quot;col-12 p-0 my-2&quot;]/div[@class=&quot;flex flex-row flex-wrap justify-content-center&quot;]/div[@class=&quot;grid col-12 align-items-center p-0 m-0 text-label&quot;]/div[@class=&quot;col-8 p-0&quot;]/div[1]/div[@class=&quot;block&quot;]/div[@class=&quot;p-fileupload p-fileupload-advanced p-component&quot;]/div[@class=&quot;p-fileupload-buttonbar&quot;]/span[@class=&quot;p-button p-fileupload-choose p-component file-upload&quot;]</value>
+      <webElementGuid>f9394576-c5ed-4bc6-8e50-3f590115cf3a</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='pr_id_12_content']/div[8]/div/div/div[2]/div/div/div/div/span</value>
+      <webElementGuid>b4aade09-2aed-4d6f-b9d1-cfee4a9b1f85</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Document File'])[1]/following::span[1]</value>
+      <webElementGuid>c2c1f4be-4ec8-48ea-8398-16de30beed48</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='No Expired Date'])[2]/following::span[1]</value>
+      <webElementGuid>70d2909b-710f-4f46-bc5b-7d54465a6941</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Cancel'])[1]/preceding::span[3]</value>
+      <webElementGuid>773bb7a0-c421-4f53-948b-6b2207bb717e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[8]/div/div/div[2]/div/div/div/div/span</value>
+      <webElementGuid>9c03e7d6-6f5b-4367-b060-427c6df889f6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Upload File' or . = 'Upload File')]</value>
+      <webElementGuid>f6fb10b9-c11f-4f53-a650-03c545d568bc</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

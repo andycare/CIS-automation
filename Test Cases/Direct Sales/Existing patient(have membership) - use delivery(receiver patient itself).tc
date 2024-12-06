@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Existing patient(have membership) - use delivery(receiver patient itself)</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>467feac7-7cd8-4ade-b278-9abe1193c87e</testCaseGuid>
+</TestCaseEntity>

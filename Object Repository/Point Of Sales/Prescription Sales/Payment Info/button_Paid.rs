@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_Paid</name>
+   <tag></tag>
+   <elementGuidId>6aff4964-adb6-45c3-afab-de86382ed0cf</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//button[@class = 'p-button p-component mr-2 mb-2 justify-content-center p-button-netral-small' and (text() = 'Paid' or . = 'Paid')]</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/div/div/div[2]/div[2]/div[8]/div[2]/div/button[4]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>c9ce48e3-a86a-4953-acb1-e20c1eb4bfa0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>p-button p-component mr-2 mb-2 justify-content-center p-button-netral-small</value>
+      <webElementGuid>821a5946-6f17-44a8-a009-fb57289d7fc4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Paid</value>
+      <webElementGuid>8e92fd40-6bc4-423b-9083-e19ab88dc008</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[@class=&quot;layout-wrapper layout-static p-ripple-disabled layout-sidebar-darkgray&quot;]/div[@class=&quot;layout-content-wrapper&quot;]/div[@class=&quot;layout-content padding-out-content&quot;]/div[@class=&quot;p-blockui-container&quot;]/div[@class=&quot;p-blockui-container&quot;]/div[@class=&quot;flex flex-row-reverse flex-wrap&quot;]/div[@class=&quot;flex align-items-center justify-content-center text-gray-900&quot;]/button[@class=&quot;p-button p-component mr-2 mb-2 justify-content-center p-button-netral-small&quot;]</value>
+      <webElementGuid>0bd2725c-9783-46b4-8b62-81182ef5ba9e</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div/div/div[2]/div[2]/div[8]/div[2]/div/button[4]</value>
+      <webElementGuid>8fafe0b6-3a3e-4b74-b936-4a5f3d8cb627</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Recall'])[1]/following::button[1]</value>
+      <webElementGuid>d5bd4ffc-6bc1-41c4-a9ed-2d96b5d54b60</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Refresh'])[1]/following::button[2]</value>
+      <webElementGuid>66fb88c4-5af6-4aff-a39f-02fd24f083d1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Klinik Utama Erha Ultimate BSD'])[2]/preceding::button[2]</value>
+      <webElementGuid>edd2deff-b909-41e1-8a2f-1257eaf1e24b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//button[4]</value>
+      <webElementGuid>45b98ba3-9e47-4924-bd0e-9c2ef3cc20b3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[(text() = 'Paid' or . = 'Paid')]</value>
+      <webElementGuid>55dc7c9a-a5d1-4642-8903-f8c632e46065</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

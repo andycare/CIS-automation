@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>label_total_net_amount</name>
+   <tag></tag>
+   <elementGuidId>65e7417b-5716-4190-aaec-55296def3a47</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/div/div/div[2]/div[2]/div[5]/div/div/div/div[14]/span[2]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>e8cb62a2-053e-4b71-81d4-8af3f41fb4d8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>text-value</value>
+      <webElementGuid>8f7371dc-8e59-4306-890e-94a688c10934</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>0,00</value>
+      <webElementGuid>8ee03f92-8f1d-4824-8514-c2f4115ab5ac</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[@class=&quot;layout-wrapper layout-static p-ripple-disabled layout-sidebar-darkgray&quot;]/div[@class=&quot;layout-content-wrapper&quot;]/div[@class=&quot;layout-content padding-out-content&quot;]/div[@class=&quot;p-blockui-container&quot;]/div[@class=&quot;card border-box&quot;]/div[@class=&quot;grid&quot;]/div[@class=&quot;col-12 md:col-6 p-0 md:p-3&quot;]/div[@class=&quot;grid p-0 m-0&quot;]/div[@class=&quot;col-8 px-2 py-2 text-value&quot;]/span[@class=&quot;text-value&quot;]</value>
+      <webElementGuid>4c723d44-63a0-4288-8547-b6df2611c076</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div/div/div[2]/div[2]/div[5]/div/div/div/div[14]/span[2]</value>
+      <webElementGuid>1c815fc0-4161-4a87-b24d-372018ecee3f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='IDR'])[5]/following::span[1]</value>
+      <webElementGuid>63d762a4-2c47-486f-b6cc-6982d550abd2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Total Net Amount'])[1]/following::span[2]</value>
+      <webElementGuid>027b67fc-0e61-4658-bce9-693b85cb1f01</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Transaction Status'])[1]/preceding::span[1]</value>
+      <webElementGuid>729dd0fe-596e-4ab3-8a6c-a9a810f013f8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='On Process Payment'])[2]/preceding::span[1]</value>
+      <webElementGuid>a478392d-24b8-43d1-96d3-011dc578830f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[14]/span[2]</value>
+      <webElementGuid>1d736858-cea5-4548-8d12-e1839d435bf1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = '0,00' or . = '0,00')]</value>
+      <webElementGuid>9c1b58de-3601-49c5-849c-9cae48e0ab61</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

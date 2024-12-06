@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_close</name>
+   <tag></tag>
+   <elementGuidId>34cb96ab-6f7f-44a3-87ea-4655b20686d9</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>span.p-dialog-header-close-icon.pi.pi-times</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='pr_id_683']/div/div[2]/button/span</value>
+      </entry>
+      <entry>
+         <key>BASIC</key>
+         <value>//span[@class = 'p-dialog-header-close-icon pi pi-times' and @aria-hidden = 'true']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>cf1e65cf-54d6-483a-9c61-bf8f076ad582</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>p-dialog-header-close-icon pi pi-times</value>
+      <webElementGuid>5f779f82-6f5e-4649-ba42-0362b8eaa726</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-hidden</name>
+      <type>Main</type>
+      <value>true</value>
+      <webElementGuid>5f4740c1-8f15-4d08-9637-80029341954e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;pr_id_683&quot;)/div[@class=&quot;p-dialog-header&quot;]/div[@class=&quot;p-dialog-header-icons&quot;]/button[@class=&quot;p-dialog-header-icon p-dialog-header-close p-link&quot;]/span[@class=&quot;p-dialog-header-close-icon pi pi-times&quot;]</value>
+      <webElementGuid>bb23b400-f758-4aee-a00d-edd005c18e54</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='pr_id_683']/div/div[2]/button/span</value>
+      <webElementGuid>67d45cc0-5d64-4582-a43a-28467667456b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/div/div/div[2]/button/span</value>
+      <webElementGuid>f98287ed-2df7-4e3a-8077-4abee77f4162</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

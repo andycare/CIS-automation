@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_search_assessment</name>
+   <tag></tag>
+   <elementGuidId>c05090cf-49c6-409a-b711-1dd230b34e5c</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>button.p-button.p-component.bg-border-netral.button-netral.p-button-icon-only</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='pr_id_204_content']/div/div[2]/button</value>
+      </entry>
+      <entry>
+         <key>BASIC</key>
+         <value>//button[@class = 'p-button p-component bg-border-netral button-netral p-button-icon-only' and (text() = ' ' or . = ' ')]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>5f8f4c0d-430c-4281-a769-71e8ea1fc6df</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>p-button p-component bg-border-netral button-netral p-button-icon-only</value>
+      <webElementGuid>aee327d4-915c-4557-9e78-2638fc38cb1a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value> </value>
+      <webElementGuid>5ee95a41-de10-4b4e-b4a3-8bb94f429622</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;pr_id_204_content&quot;)/div[@class=&quot;flex justify-content-between mb-3&quot;]/div[@class=&quot;p-inputgroup col-4&quot;]/button[@class=&quot;p-button p-component bg-border-netral button-netral p-button-icon-only&quot;]</value>
+      <webElementGuid>35be6c7e-552c-46a5-9ac8-46cfc870d379</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='pr_id_204_content']/div/div[2]/button</value>
+      <webElementGuid>f5b130e1-1294-4372-a310-c459d89bfb58</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Show Selected Assessment'])[1]/following::button[1]</value>
+      <webElementGuid>54f42df0-02e3-4a05-9ea9-94dfc32d9b40</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Data Assessment List'])[1]/following::button[2]</value>
+      <webElementGuid>bdd7f58a-254c-4352-a8eb-41c735ac7883</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='No'])[1]/preceding::button[1]</value>
+      <webElementGuid>94959db2-8686-4c71-b746-f3c9c9d9f3a8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Assessment Description'])[1]/preceding::button[1]</value>
+      <webElementGuid>88cec645-db51-4090-8398-f7168da344e8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/div/div[2]/div/div[2]/button</value>
+      <webElementGuid>294846d6-5d59-4637-96b1-8f350634d3d6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[(text() = ' ' or . = ' ')]</value>
+      <webElementGuid>d5b25095-65ea-4456-a98e-114756087e71</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

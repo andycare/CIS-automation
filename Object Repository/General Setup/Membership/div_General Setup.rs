@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_General Setup</name>
+   <tag></tag>
+   <elementGuidId>cbdb37a4-9b0b-42f9-ac6a-07bae5692874</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.grid.overview-detail > div.col-12</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//a[@id='GS']/div/div/div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>02d813b7-d6dc-469c-8f82-fe5855f321e5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>col-12</value>
+      <webElementGuid>9e345b52-1ba1-485f-8111-f37e151a3269</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>General Setup</value>
+      <webElementGuid>5c069ca4-db9f-4b6c-9fe2-3093f7e762bc</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;GS&quot;)/div[@class=&quot;card card-module&quot;]/div[@class=&quot;grid overview-detail&quot;]/div[@class=&quot;col-12&quot;]</value>
+      <webElementGuid>f8ca3a82-b0cb-4108-94ef-7d6fe5fa1b23</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//a[@id='GS']/div/div/div</value>
+      <webElementGuid>f1964ef9-4dbf-4e50-8d5d-2e32a1699b03</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='On Process'])[1]/following::div[5]</value>
+      <webElementGuid>3964b065-0265-4c34-900a-b550e6516b22</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Reviews'])[1]/following::div[8]</value>
+      <webElementGuid>60ba52c4-748e-4396-a02d-9e9b4bc4281a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Front Office'])[1]/preceding::div[2]</value>
+      <webElementGuid>84d5d2da-a68c-4670-856c-4281bd796f5f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//a/div/div/div</value>
+      <webElementGuid>aa169adc-8835-4992-8b23-4db52807a0de</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'General Setup' or . = 'General Setup')]</value>
+      <webElementGuid>90516085-db74-4942-8003-501a2c34c30a</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

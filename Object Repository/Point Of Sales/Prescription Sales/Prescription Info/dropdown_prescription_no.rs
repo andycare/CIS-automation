@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>dropdown_prescription_no</name>
+   <tag></tag>
+   <elementGuidId>44d235e9-576b-42cb-b871-13826ace762a</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#prescription_type > span.p-dropdown-label.p-inputtext</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='prescription_type']/span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>8fd0953a-0e1a-4f72-b343-1a7d9380b3c0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>p-dropdown-label p-inputtext</value>
+      <webElementGuid>c89318a2-6fd4-49e0-b75e-df84d54ad065</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>838.SPC.2312.000013</value>
+      <webElementGuid>d45715df-b544-49af-acf3-61d0bfafa04f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;prescription_type&quot;)/span[@class=&quot;p-dropdown-label p-inputtext&quot;]</value>
+      <webElementGuid>01b7487b-900d-4ff8-8411-84e21e8e17dc</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='prescription_type']/span</value>
+      <webElementGuid>d1aaedb1-19ba-48ba-81ce-db3621b20198</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Prescription No'])[1]/following::span[1]</value>
+      <webElementGuid>bfaf16d9-039b-403d-a479-24d7400fc694</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Prescription Info'])[1]/following::span[1]</value>
+      <webElementGuid>21881e35-5552-4f04-abb9-01334f17ff67</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Prescription Date'])[1]/preceding::span[2]</value>
+      <webElementGuid>4b8c887b-092f-4793-b2a9-7a7e9da06e6b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Doctor Name'])[1]/preceding::span[2]</value>
+      <webElementGuid>81a107bc-4285-4e6c-aedc-589faaa2adc6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/div/div/div[2]/div/span</value>
+      <webElementGuid>d23f276d-4e1a-4ff6-b598-a953279743e1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = '838.SPC.2312.000013' or . = '838.SPC.2312.000013')]</value>
+      <webElementGuid>f2852130-fd8e-40e3-b5af-4955bdd2baa2</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

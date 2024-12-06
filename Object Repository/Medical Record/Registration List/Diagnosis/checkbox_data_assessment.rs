@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>checkbox_data_assessment</name>
+   <tag></tag>
+   <elementGuidId>9d674e75-6274-45a9-86c4-e9dc6c343a04</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>td.p-selection-column > div.p-checkbox.p-component > div.p-checkbox-box.p-component</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='pr_id_204_content']/div[2]/div/table/tbody/tr/td/div/div</value>
+      </entry>
+      <entry>
+         <key>BASIC</key>
+         <value>//div[@class = 'p-checkbox-box p-component' and @role = 'checkbox' and @tabindex = '0']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>df68bd5f-8b34-4d9e-9832-2edd5011d07e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>p-checkbox-box p-component</value>
+      <webElementGuid>4fc1521b-0b57-4d5d-8f6d-d9b14496d374</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>role</name>
+      <type>Main</type>
+      <value>checkbox</value>
+      <webElementGuid>64991f87-b60b-43bc-99d2-8543834f5c34</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-checked</name>
+      <type>Main</type>
+      <value>false</value>
+      <webElementGuid>1388aa1c-4eb5-47ed-88a7-603504f3abe2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tabindex</name>
+      <type>Main</type>
+      <value>0</value>
+      <webElementGuid>77a1e2fc-f54f-4da7-8d56-fc16865d0114</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-label</name>
+      <type>Main</type>
+      <value>Select null</value>
+      <webElementGuid>965dedf7-0fa8-4fa2-8169-d5fca8b345dc</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;pr_id_204_content&quot;)/div[@class=&quot;p-datatable p-component p-datatable-selectable p-datatable-responsive-scroll p-datatable-products&quot;]/div[@class=&quot;p-datatable-wrapper&quot;]/table[@class=&quot;p-datatable-table&quot;]/tbody[@class=&quot;p-datatable-tbody&quot;]/tr[@class=&quot;p-selectable-row&quot;]/td[@class=&quot;p-selection-column&quot;]/div[@class=&quot;p-checkbox p-component&quot;]/div[@class=&quot;p-checkbox-box p-component&quot;]</value>
+      <webElementGuid>a96b8e5b-a586-4dcf-ba91-ba607b5f257b</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='pr_id_204_content']/div[2]/div/table/tbody/tr/td/div/div</value>
+      <webElementGuid>4b105d72-48da-460c-b33b-c969a9e225f3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Assessment Description'])[1]/following::div[2]</value>
+      <webElementGuid>daae5b8c-4c03-4ef8-ad74-56ea262acd7d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='No'])[1]/following::div[3]</value>
+      <webElementGuid>ca3a461b-835a-4316-860f-f116af02c5f1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Pityriasis rosea'])[1]/preceding::div[1]</value>
+      <webElementGuid>bfbb3d8c-db81-4d8d-97ff-a68a1dd701c1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Desmoplastic melanoma, NOS'])[1]/preceding::div[3]</value>
+      <webElementGuid>d62ebd34-2200-4360-ab14-c22f3e739806</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//td/div/div</value>
+      <webElementGuid>7ca09253-439d-4958-ad63-073770f4ce41</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

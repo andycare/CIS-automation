@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>btn_SearchPatient</name>
+   <tag></tag>
+   <elementGuidId>667b0ffd-9542-4ef1-b0b2-7f6b89a3877a</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//div[@id='root']/div/div/div[2]/div[2]/div/div[2]/div[3]/div/button/span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div/div/div[2]/div[2]/div/div[2]/div[3]/div/button/span</value>
+      <webElementGuid>4839e81f-5664-4bfa-88bd-762ba8fa31c4</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

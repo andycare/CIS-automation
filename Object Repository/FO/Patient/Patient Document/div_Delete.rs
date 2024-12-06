@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Delete</name>
+   <tag></tag>
+   <elementGuidId>46eb8e10-8bda-4fc8-8350-5061d6b1bae9</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='pr_id_20_content_1']/div/div/div</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.flex.align-items-center.justify-content-center.text-gray-900.m-2 > div.block.undefined</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>69e09e32-7757-468a-a913-3e9dbd9e1093</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>block undefined</value>
+      <webElementGuid>35ddae83-8cb4-451d-bac5-e353ce6df516</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Delete</value>
+      <webElementGuid>2867f18e-a367-40b9-89c8-7db4b2fd2434</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;pr_id_20_content_1&quot;)/div[@class=&quot;flex flex-row-reverse flex-wrap&quot;]/div[@class=&quot;flex align-items-center justify-content-center text-gray-900 m-2&quot;]/div[@class=&quot;block undefined&quot;]</value>
+      <webElementGuid>0a5bc5ce-cafd-4645-b083-bf17d0a9b32e</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='pr_id_20_content_1']/div/div/div</value>
+      <webElementGuid>e4f4a37e-c91a-4303-a5a5-68c5796db632</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Membership'])[1]/following::div[5]</value>
+      <webElementGuid>b50a98bb-8c5f-46cb-ae5a-48045d2561d5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Guarantor'])[1]/following::div[5]</value>
+      <webElementGuid>2cac1a42-3e31-4611-be65-3c337dca49e3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Add'])[1]/preceding::div[1]</value>
+      <webElementGuid>68708f84-e458-4424-9565-31f48dc739fa</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div[4]/div/div/div[2]/div/div/div/div</value>
+      <webElementGuid>57a04b58-9288-4f55-8d94-c8b663f6743a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Delete' or . = 'Delete')]</value>
+      <webElementGuid>e11d8b80-2d0e-409c-8bfd-4f53dc1fd4c5</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Reject</name>
+   <tag></tag>
+   <elementGuidId>d4f81f90-4178-4926-9dd7-6ac6b04c69fb</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='pr_id_116_content_0']/div/div[2]/div/table/tbody/tr[2]/td[5]/div/button[2]/span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>8c1aac9d-3851-44a2-b262-b573d9839b97</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>p-button-label p-c</value>
+      <webElementGuid>403c70d8-c54d-4d0d-911f-36968326e0f9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-pc-section</name>
+      <type>Main</type>
+      <value>label</value>
+      <webElementGuid>4fac908b-9184-454a-9cb8-f4e3131c2d51</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Reject</value>
+      <webElementGuid>c6930fcb-8042-482b-9944-1e36c34b2038</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;pr_id_116_content_0&quot;)/div[1]/div[@class=&quot;p-datatable p-component p-datatable-responsive-scroll p-datatable-products font-size-datatable&quot;]/div[@class=&quot;p-datatable-wrapper&quot;]/table[@class=&quot;p-datatable-table&quot;]/tbody[@class=&quot;p-datatable-tbody&quot;]/tr[@class=&quot;p-row-odd&quot;]/td[5]/div[@class=&quot;flex gap-2 min-w-max&quot;]/button[@class=&quot;p-button p-component bg-border-error button-delete col-4 p-0&quot;]/span[@class=&quot;p-button-label p-c&quot;]</value>
+      <webElementGuid>912d27e8-4d4b-4962-9ebd-80eb2b8ea9fe</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='pr_id_116_content_0']/div/div[2]/div/table/tbody/tr[2]/td[5]/div/button[2]/span</value>
+      <webElementGuid>857b9262-2800-4bca-bcbe-bd481c32650f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Approve'])[2]/following::span[1]</value>
+      <webElementGuid>ce75e06c-a27a-42bd-8d2b-a58ad3d80452</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Andyca'])[2]/following::span[2]</value>
+      <webElementGuid>ebff1190-34a8-4e83-b99a-06cec7cb5f60</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Klinik Utama Erha Ultimate BSD'])[5]/preceding::span[7]</value>
+      <webElementGuid>5c2ae59d-4a80-4121-b254-f67942f454b5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//tr[2]/td[5]/div/button[2]/span</value>
+      <webElementGuid>13444ce0-66a0-4e12-9718-0756ffdcc65a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Reject' or . = 'Reject')]</value>
+      <webElementGuid>41724842-8f70-40ab-abda-aa6316750fa4</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

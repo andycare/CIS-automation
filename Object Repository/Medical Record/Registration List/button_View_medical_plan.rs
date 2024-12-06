@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_view_medical_plan</name>
+   <tag></tag>
+   <elementGuidId>9b554097-5f78-4c92-8cfb-96ee986a8808</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='pr_id_63_content']/div/div/div/div/div[4]/button</value>
+      </entry>
+      <entry>
+         <key>BASIC</key>
+         <value>//button[@class = 'p-button p-component bg-border-netral button-add' and (text() = 'View Medical Plan' or . = 'View Medical Plan')]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>1bf2b762-68ad-4174-be76-d0423b008527</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-label</name>
+      <type>Main</type>
+      <value>View Medical Plan</value>
+      <webElementGuid>115398d4-1650-4b58-a172-5c685cfc6122</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>p-button p-component bg-border-netral button-add</value>
+      <webElementGuid>f9a1face-1fda-4f89-a89f-f912443eb705</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>View Medical Plan</value>
+      <webElementGuid>d70aa3e9-5d76-4fd3-be9c-6c4d18285062</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;pr_id_63_content&quot;)/div[@class=&quot;p-fieldset-content&quot;]/div[@class=&quot;grid col-12 m-0 p-0&quot;]/div[@class=&quot;col-12 p-0 mb-4 mt-0&quot;]/div[@class=&quot;flex flex-row-reverse flex-wrap&quot;]/div[@class=&quot;flex align-items-center m-2&quot;]/button[@class=&quot;p-button p-component bg-border-netral button-add&quot;]</value>
+      <webElementGuid>e5f46c2f-818d-40b8-a9b7-0de7cedfdfca</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='pr_id_63_content']/div/div/div/div/div[4]/button</value>
+      <webElementGuid>c433e3ca-beef-4167-a1fd-8f31a9d5283f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='View Referral Letter'])[1]/following::button[1]</value>
+      <webElementGuid>c77a562b-6d70-4727-8c93-050d84e3a06c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Add Service Activity'])[1]/following::button[2]</value>
+      <webElementGuid>648857f1-c539-4485-8c0d-4e689f12381f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='No'])[1]/preceding::button[2]</value>
+      <webElementGuid>18f4ed2f-0c25-40c7-88f5-d0fe710a1eb9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[4]/button</value>
+      <webElementGuid>d669888a-d285-4e0b-a229-02d9cedc1460</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[(text() = 'View Medical Plan' or . = 'View Medical Plan')]</value>
+      <webElementGuid>d3d61a7f-fadb-4c16-be9b-32ed192c4d78</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

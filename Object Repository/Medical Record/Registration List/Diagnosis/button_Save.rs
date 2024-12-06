@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_Save</name>
+   <tag></tag>
+   <elementGuidId>c399fa15-262e-4d3a-9743-c46dc12cf179</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>button.p-button.p-component.bg-border-netral.button-add.mt-3.mr-5</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='pr_id_206_content_0']/div/div/button</value>
+      </entry>
+      <entry>
+         <key>BASIC</key>
+         <value>//button[@aria-label = 'Save' and @class = 'p-button p-component bg-border-netral button-add mt-3 mr-5' and (text() = 'Save' or . = 'Save')]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>4dc1a93e-add7-429a-be27-f10191fdec95</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-label</name>
+      <type>Main</type>
+      <value>Save</value>
+      <webElementGuid>5ecc751d-e792-45a7-8d5e-5cd3050afd77</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>p-button p-component bg-border-netral button-add mt-3 mr-5</value>
+      <webElementGuid>7b8dee76-0669-4328-b177-83a38706d012</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Save</value>
+      <webElementGuid>c5c9e5dd-d734-4de8-a39b-3b64cbf03c83</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;pr_id_206_content_0&quot;)/div[@class=&quot;p-blockui-container&quot;]/div[@class=&quot;grid justify-content-end&quot;]/button[@class=&quot;p-button p-component bg-border-netral button-add mt-3 mr-5&quot;]</value>
+      <webElementGuid>af7f3442-e5e7-4daf-b446-6f003d37b0ce</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='pr_id_206_content_0']/div/div/button</value>
+      <webElementGuid>2eb1a2a8-2484-4409-b153-29927fe19b44</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Referral'])[1]/following::button[1]</value>
+      <webElementGuid>3f0f47a1-4ce5-41c0-845f-0c2a99224b05</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Medication Instruction'])[1]/following::button[1]</value>
+      <webElementGuid>5dce8ea2-be2e-467f-a8d5-4047a470546e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div[2]/div/div/div/button</value>
+      <webElementGuid>e65e5caa-a061-453f-8d49-7dfc5b2fa995</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[(text() = 'Save' or . = 'Save')]</value>
+      <webElementGuid>50ebae7d-ac7f-4b3a-979f-bfbde050b2d9</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

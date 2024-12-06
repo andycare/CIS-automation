@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>label_date</name>
+   <tag></tag>
+   <elementGuidId>7eee4a0d-577c-4872-8c6e-dc4e32742fb9</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/div/div/div[2]/div[2]/form/div/div[2]/div/div[2]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>cfbc5d77-4e86-41be-bd0a-e8a4a8969ac3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>col-8 text-body-2 p-2</value>
+      <webElementGuid>2b8d7769-c1d6-4772-988d-cec29ced9e44</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>13 Nov 2023</value>
+      <webElementGuid>e2028d2c-40ab-40fd-ae82-1680c338e9b4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[@class=&quot;layout-wrapper layout-static p-ripple-disabled layout-sidebar-darkgray&quot;]/div[@class=&quot;layout-content-wrapper&quot;]/div[@class=&quot;layout-content padding-out-content&quot;]/div[@class=&quot;col-12 xl:col-12 p-0 mb-8&quot;]/form[1]/div[@class=&quot;grid my-3 border-box&quot;]/div[@class=&quot;col-12 md:col-6&quot;]/div[@class=&quot;grid grid-nogutter&quot;]/div[@class=&quot;col-8 text-body-2 p-2&quot;]</value>
+      <webElementGuid>4d5906f5-8e49-4d5c-90c3-d098b4a2b802</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div/div/div[2]/div[2]/form/div/div[2]/div/div[2]</value>
+      <webElementGuid>3507cd46-f0d8-43cb-a398-67e1827987e6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Appointment Date'])[1]/following::div[1]</value>
+      <webElementGuid>616ff332-014f-468f-aece-59f510521c01</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Double Basic DPCT (Medical Grade Facial)'])[1]/following::div[4]</value>
+      <webElementGuid>2e1e8105-0d2c-4922-9e52-441235174035</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Appointment Time'])[1]/preceding::div[1]</value>
+      <webElementGuid>fd3576ce-d3c3-4bda-be64-ae061d192d71</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Note'])[1]/preceding::div[3]</value>
+      <webElementGuid>32852848-23eb-4b89-b8e3-17c153b38150</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='13 Nov 2023']/parent::*</value>
+      <webElementGuid>753dfe4c-f57b-45b6-b9a2-158f213117a9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//form/div/div[2]/div/div[2]</value>
+      <webElementGuid>d28aa6af-9cb4-4554-baaa-68cff35d6688</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = '13 Nov 2023' or . = '13 Nov 2023')]</value>
+      <webElementGuid>1ead0d46-bdb2-41f1-8331-76f5cf8bb72d</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

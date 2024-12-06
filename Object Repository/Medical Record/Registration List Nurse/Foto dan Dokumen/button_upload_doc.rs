@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_upload_doc</name>
+   <tag></tag>
+   <elementGuidId>acb80866-2f2e-425e-a42e-e6b74bf6e5ba</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>span.p-button.p-fileupload-choose.p-component.bg-border-netral.button-add</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='file-upload-multiple']/div/span</value>
+      </entry>
+      <entry>
+         <key>BASIC</key>
+         <value>//span[@class = 'p-button p-fileupload-choose p-component bg-border-netral button-add' and (text() = 'Choose Files' or . = 'Choose Files')]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>0df62613-197b-4048-b407-dea9dfc05cb3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>p-button p-fileupload-choose p-component bg-border-netral button-add</value>
+      <webElementGuid>0f8d9847-6d6e-42fc-92b8-60ac4bf49781</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tabindex</name>
+      <type>Main</type>
+      <value>0</value>
+      <webElementGuid>30d24379-593b-46d8-a5da-ca93a086c9ca</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Choose Files</value>
+      <webElementGuid>ce802a13-4ff6-4009-b8ec-1b675b6e020e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;file-upload-multiple&quot;)/div[@class=&quot;p-fileupload-buttonbar&quot;]/span[@class=&quot;p-button p-fileupload-choose p-component bg-border-netral button-add&quot;]</value>
+      <webElementGuid>92cd6051-ff80-4f38-8882-f528ae884703</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='file-upload-multiple']/div/span</value>
+      <webElementGuid>51fa1600-e6b8-4adc-beb4-187835a9f0b0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='tes'])[2]/following::span[2]</value>
+      <webElementGuid>619a4cbb-d963-47c4-a99b-afba3024c5c6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div[3]/div/span</value>
+      <webElementGuid>0a1588b2-b3d3-4cdb-82d2-5fd084696605</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Choose Files' or . = 'Choose Files')]</value>
+      <webElementGuid>21fecc0f-744a-44d4-8206-7d7cfe621ab1</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

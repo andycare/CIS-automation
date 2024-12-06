@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>dropdown_room_schedule</name>
+   <tag></tag>
+   <elementGuidId>59c77064-f900-4169-8a93-b8cab30dd30e</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>span.p-dropdown-label.p-inputtext.p-placeholder</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/div/div/div[2]/div[2]/div[5]/div/div[3]/div/div/div[2]/div/div/table/tbody/tr/td[6]/div/span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>cc55c215-2eea-4033-bfb6-496e51b53db9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>p-dropdown-label p-inputtext p-placeholder</value>
+      <webElementGuid>168469e0-99f4-4b33-94e1-3eb49d6aedf0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Please Select</value>
+      <webElementGuid>a7854589-620f-4dc8-8c8f-35dba6c6267e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[@class=&quot;layout-wrapper layout-static p-ripple-disabled layout-sidebar-darkgray&quot;]/div[@class=&quot;layout-content-wrapper&quot;]/div[@class=&quot;layout-content padding-out-content&quot;]/div[2]/div[5]/div[@class=&quot;grid border-box py-4&quot;]/div[@class=&quot;col-12 P-0&quot;]/div[@class=&quot;mb-8rem p-0&quot;]/div[@class=&quot;grid col-12 m-0 p-1&quot;]/div[@class=&quot;col-12 p-0&quot;]/div[@class=&quot;p-datatable p-component p-datatable-selectable p-datatable-responsive-scroll font-size-datatable edit-inline&quot;]/div[@class=&quot;p-datatable-wrapper&quot;]/table[@class=&quot;p-datatable-table&quot;]/tbody[@class=&quot;p-datatable-tbody&quot;]/tr[1]/td[@class=&quot;p-editable-column p-cell-editing&quot;]/div[@class=&quot;p-dropdown p-component p-inputwrapper&quot;]/span[@class=&quot;p-dropdown-label p-inputtext p-placeholder&quot;]</value>
+      <webElementGuid>46eb4cd8-9447-4285-a6a0-d7e94d324958</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div/div/div[2]/div[2]/div[5]/div/div[3]/div/div/div[2]/div/div/table/tbody/tr/td[6]/div/span</value>
+      <webElementGuid>a7d825ab-4550-4122-b24d-d8bd4a6293e1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Ultimate Acne Cure - Acne Finale - Acne Scar Program'])[2]/following::span[2]</value>
+      <webElementGuid>24b10417-3477-40a1-a989-42d1324c4f3f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='AutoDok'])[2]/following::span[4]</value>
+      <webElementGuid>a9a4b4d6-a816-4f6c-b7c7-246a87a07b1e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Save'])[1]/preceding::span[3]</value>
+      <webElementGuid>d220c55e-79a5-47f2-8271-e0e76af4772e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Cancel'])[1]/preceding::span[5]</value>
+      <webElementGuid>5fc3cedf-42ee-4e86-abab-9b3d32935399</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//td[6]/div/span</value>
+      <webElementGuid>90a7216b-3612-4d11-9a8d-121d4280d256</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Please Select' or . = 'Please Select')]</value>
+      <webElementGuid>fff1ab06-f8e6-4500-a4e8-73cc313a09d8</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

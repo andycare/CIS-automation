@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Select a DoctorSelect a Doctor</name>
+   <tag></tag>
+   <elementGuidId>665035e5-11ae-493f-b479-8f7d1f46af46</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/div/div/div[2]/div[2]/form/div/div/div[3]/div/div/div[2]/div/div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>debc5945-0de2-46a2-bf94-291bc6369d7e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>col-12 align-items-center text-value border-round p-0</value>
+      <webElementGuid>9e202aa5-1140-4fdd-905d-575c02fc4e72</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Select a DoctorSelect a Doctor</value>
+      <webElementGuid>620c289f-27ef-47b2-b483-3ba134d658bf</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[@class=&quot;layout-wrapper layout-static p-ripple-disabled layout-sidebar-darkgray&quot;]/div[@class=&quot;layout-content-wrapper&quot;]/div[@class=&quot;layout-content padding-out-content&quot;]/div[@class=&quot;col-12 xl:col-12 p-0&quot;]/form[1]/div[@class=&quot;grid card border-box mb-5&quot;]/div[@class=&quot;col-6 p-3&quot;]/div[@class=&quot;col-12 p-0 my-2&quot;]/div[@class=&quot;flex flex-row flex-wrap justify-content-center&quot;]/div[@class=&quot;grid col-12 align-items-center p-0 m-0&quot;]/div[@class=&quot;col-8 p-0&quot;]/div[@class=&quot;grid row-gap-3 col-12 p-0 justify-content-between m-0&quot;]/div[@class=&quot;col-12 align-items-center text-value border-round p-0&quot;]</value>
+      <webElementGuid>4c9d359a-2a3b-4d2f-a986-9cd993af6519</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div/div/div[2]/div[2]/form/div/div/div[3]/div/div/div[2]/div/div</value>
+      <webElementGuid>527f50e8-9e38-436b-a065-82f8bdc403fe</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Doctor'])[1]/following::div[3]</value>
+      <webElementGuid>353e4ec0-cfe1-4e02-9304-4ff374eeff17</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Select a Service Activity'])[2]/following::div[8]</value>
+      <webElementGuid>843dc2af-f2be-434c-ae00-863d64592daf</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Treatment'])[1]/preceding::div[5]</value>
+      <webElementGuid>e16f05ec-89bc-40c0-9f51-05d9de517a81</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/div/div/div[2]/div/div</value>
+      <webElementGuid>7aa99648-a9ce-4003-9f5a-04601601eaa5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Select a DoctorSelect a Doctor' or . = 'Select a DoctorSelect a Doctor')]</value>
+      <webElementGuid>c7d7dbc4-a83e-4846-815a-7515f28df1ab</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

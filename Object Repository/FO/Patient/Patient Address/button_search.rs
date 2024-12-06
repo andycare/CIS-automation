@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_search</name>
+   <tag></tag>
+   <elementGuidId>41bf9c75-6913-4b39-a1d6-4b6da4e2e506</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>(//button[@id='btn_search'])[2]</value>
+      </entry>
+      <entry>
+         <key>BASIC</key>
+         <value>//*[@id = 'btn_search']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>button.p-button.p-component.bg-border-blue.h-33.p-button-icon-only</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>54687d8d-ce3c-4255-85b5-e37fa83f46ee</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>p-button p-component bg-border-blue h-33 p-button-icon-only</value>
+      <webElementGuid>9b6a439a-34a9-4a51-9794-2777988cc8e9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-pc-name</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>1dbcc8b8-56bb-4646-b20f-92958311fdb4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-pc-section</name>
+      <type>Main</type>
+      <value>root</value>
+      <webElementGuid>4be46583-ba10-4eed-b9a5-e234438ba609</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value> </value>
+      <webElementGuid>278c12c9-135d-417d-8f98-eec7b5234cde</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;pr_id_12_content&quot;)/div[@class=&quot;grid col-12 p-0&quot;]/div[@class=&quot;grid col-6 p-0 pt-2&quot;]/div[@class=&quot;p-inputgroup col-8&quot;]/button[@class=&quot;p-button p-component bg-border-blue h-33 p-button-icon-only&quot;]</value>
+      <webElementGuid>c2669d44-3df2-46fa-9331-95aba6839496</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>btn_search</value>
+      <webElementGuid>49024309-8189-41cc-8559-0559eca001ac</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='pr_id_12_content']/div[2]/div/div[2]/button</value>
+      <webElementGuid>ee3fda7b-fa0a-40a3-9055-cd83def3d4cf</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Search'])[1]/following::button[1]</value>
+      <webElementGuid>31ce3072-7464-4188-b5d5-518343fb7955</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Daerah Istimewa Aceh'])[4]/following::button[1]</value>
+      <webElementGuid>3d60d757-e494-4dcf-8154-a0e0ad65762c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='No'])[3]/preceding::button[1]</value>
+      <webElementGuid>4b942f06-b9b8-484b-af83-495d6444ba5b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Postal Code'])[2]/preceding::button[1]</value>
+      <webElementGuid>6c815b58-b9a7-4827-a37d-1785ca0acae0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div[2]/button</value>
+      <webElementGuid>9f3090a5-5e88-4161-ac58-2dd7b810b104</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[(text() = ' ' or . = ' ')]</value>
+      <webElementGuid>bdfbfa5e-0c82-4664-a3a8-75e542776bbf</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

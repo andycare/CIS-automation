@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Service Activity</name>
+   <tag></tag>
+   <elementGuidId>ad88f68a-67db-4bd2-ae53-70391e689ef8</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#pr_id_63_header > span.p-fieldset-legend-text</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//a[@id='pr_id_63_header']/span[2]</value>
+      </entry>
+      <entry>
+         <key>BASIC</key>
+         <value>//span[@class = 'p-fieldset-legend-text' and (text() = 'Service Activity' or . = 'Service Activity')]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>3512d069-78a7-49bc-8baf-fb3cdac6a616</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>p-fieldset-legend-text</value>
+      <webElementGuid>234451a2-351c-4ce0-a388-f181979fc8c8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Service Activity</value>
+      <webElementGuid>3fac6cb8-b0ea-4720-ac86-bd401313f57b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;pr_id_63_header&quot;)/span[@class=&quot;p-fieldset-legend-text&quot;]</value>
+      <webElementGuid>df226ef9-1b02-4201-bc83-d1ff293edd19</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//a[@id='pr_id_63_header']/span[2]</value>
+      <webElementGuid>08445f06-d961-4bbf-8d4f-2cdd9b6bffa3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='asf'])[1]/following::span[2]</value>
+      <webElementGuid>3a7c3b08-9f8c-4ff4-852d-fd6a119dfc1b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Registration Note'])[1]/following::span[2]</value>
+      <webElementGuid>bcb60fe6-4d12-40ed-bc67-fc4ae5be4c28</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Bulk Delete'])[1]/preceding::span[2]</value>
+      <webElementGuid>c971f0f8-5f53-4229-a9e5-161e414c171b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Add Service Activity'])[1]/preceding::span[4]</value>
+      <webElementGuid>fd9f67fc-48b0-47cf-af10-40e4fd4cf657</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/fieldset/legend/a/span[2]</value>
+      <webElementGuid>8ccd6a23-81fd-4d9b-98d6-477c03f0e290</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Service Activity' or . = 'Service Activity')]</value>
+      <webElementGuid>f0628ae9-0cad-4807-ab78-8016be47c261</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

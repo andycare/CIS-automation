@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_checkbox_unlimited</name>
+   <tag></tag>
+   <elementGuidId>7c0731c6-6d59-47bb-859d-c4ba32d15403</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.col-6.align-items-center.text-center.p-2.text-value.border-round.p-0 > div.p-checkbox.p-component > div.p-checkbox-box</value>
+      </entry>
+      <entry>
+         <key>BASIC</key>
+         <value>id(&quot;pr_id_12_content&quot;)/div[@class=&quot;col-12 p-0 my-2&quot;]/div[@class=&quot;flex flex-row flex-wrap justify-content-center&quot;]/div[@class=&quot;grid col-12 align-items-center p-0 m-0 text-label&quot;]/div[@class=&quot;col-8 p-0&quot;]/div[@class=&quot;grid row-gap-3 col-12 p-0 justify-content-between m-0&quot;]/div[@class=&quot;col-6 align-items-center text-center p-2 text-value border-round p-0&quot;]/div[@class=&quot;p-checkbox p-component&quot;]/div[@class=&quot;p-checkbox-box&quot;]</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[7]/div/div/div[2]/div/div[2]/div/div[2]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>679169bb-7a59-4f9e-bf1b-c8f09928fc90</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>p-checkbox-box</value>
+      <webElementGuid>6c9b7611-c779-40b1-995a-95b30091a009</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-pc-section</name>
+      <type>Main</type>
+      <value>input</value>
+      <webElementGuid>7a3205dc-e5d2-4f1c-8e2b-de5fe5c33fe8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;pr_id_12_content&quot;)/div[@class=&quot;col-12 p-0 my-2&quot;]/div[@class=&quot;flex flex-row flex-wrap justify-content-center&quot;]/div[@class=&quot;grid col-12 align-items-center p-0 m-0 text-label&quot;]/div[@class=&quot;col-8 p-0&quot;]/div[@class=&quot;grid row-gap-3 col-12 p-0 justify-content-between m-0&quot;]/div[@class=&quot;col-6 align-items-center text-center p-2 text-value border-round p-0&quot;]/div[@class=&quot;p-checkbox p-component&quot;]/div[@class=&quot;p-checkbox-box&quot;]</value>
+      <webElementGuid>e4c4512f-18f6-4eed-a966-7aa5ef54f71d</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='pr_id_12_content']/div[7]/div/div/div[2]/div/div[2]/div/div[2]</value>
+      <webElementGuid>c2d01213-9918-4170-b8ff-cbe4e0b248dc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[7]/div/div/div[2]/div/div[2]/div/div[2]</value>
+      <webElementGuid>b8fe4708-2f26-4a58-b357-def06d766b1b</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

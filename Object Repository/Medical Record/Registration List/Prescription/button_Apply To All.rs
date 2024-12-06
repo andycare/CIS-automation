@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_Apply To All</name>
+   <tag></tag>
+   <elementGuidId>22301a12-72ea-4ec1-9333-1d72164c1a07</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>button.p-button.p-component.bg-border-netral.button-add.mr-2</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>(//button[@type='button'])[18]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>10b53d24-67e2-470a-9103-43ebbf3d4106</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-label</name>
+      <type>Main</type>
+      <value>Apply To All</value>
+      <webElementGuid>bde6dce6-d9f5-444f-b40d-4b4691477164</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>c84cc934-a6b8-45c7-9bbe-b604e14957d1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>p-button p-component bg-border-netral button-add mr-2</value>
+      <webElementGuid>a741d25e-1b2e-4cf1-874e-a82293e67312</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Apply To All</value>
+      <webElementGuid>80732344-504a-4d80-b819-5d4a147f67ff</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;pr_id_683_content&quot;)/div[@class=&quot;grid&quot;]/div[@class=&quot;p-blockui-container&quot;]/form[1]/div[@class=&quot;grid m-0&quot;]/div[@class=&quot;col-12 text-right&quot;]/button[@class=&quot;p-button p-component bg-border-netral button-add mr-2&quot;]</value>
+      <webElementGuid>51c738e1-b7af-4acc-b83e-45400e50587e</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>(//button[@type='button'])[18]</value>
+      <webElementGuid>6157433b-5ee9-4c70-9899-54cff91f53e7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='pr_id_683_content']/div/div/form/div/div[3]/button</value>
+      <webElementGuid>b6528ccd-ebb8-4ce1-8722-f95e9ec3a686</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Iter Prescription'])[1]/following::button[1]</value>
+      <webElementGuid>8bb9c7a5-b3b1-4889-b735-9d592bc5b1b6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Remarks'])[1]/following::button[1]</value>
+      <webElementGuid>2ee792b1-db50-4fd2-b591-656fb7feb46a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Delete'])[1]/preceding::button[1]</value>
+      <webElementGuid>92897cc4-d259-42bb-aec1-58d2eb4c5a47</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//form/div/div[3]/button</value>
+      <webElementGuid>5b57660d-9164-4811-bfce-0266ee9cd985</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[@type = 'button' and (text() = 'Apply To All' or . = 'Apply To All')]</value>
+      <webElementGuid>b25fee2c-4f43-4f79-810c-4f38f11d8587</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

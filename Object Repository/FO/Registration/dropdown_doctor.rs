@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>dropdown_doctor</name>
+   <tag></tag>
+   <elementGuidId>9b1c72ab-1bce-478d-8cc4-8b13ec6a3d66</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/div/div/div[2]/div[2]/div[5]/div/div[3]/div/div/div[2]/div/div/table/tbody/tr/td[4]/div/span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>fbfa9a6f-b1ee-4b61-8f3f-c0966bd5f207</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>p-dropdown-label p-inputtext p-placeholder</value>
+      <webElementGuid>07cd32e4-1324-434e-b455-fd80a74af8f1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Please Select</value>
+      <webElementGuid>62bbc337-142e-45c3-8e58-9f9e1f8374c1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[@class=&quot;layout-wrapper layout-static p-ripple-disabled layout-sidebar-darkgray&quot;]/div[@class=&quot;layout-content-wrapper&quot;]/div[@class=&quot;layout-content padding-out-content&quot;]/div[2]/div[5]/div[@class=&quot;grid border-box py-4&quot;]/div[@class=&quot;col-12 P-0&quot;]/div[@class=&quot;mb-8rem p-0&quot;]/div[@class=&quot;grid col-12 m-0 p-1&quot;]/div[@class=&quot;col-12 p-0&quot;]/div[@class=&quot;p-datatable p-component p-datatable-selectable p-datatable-responsive-scroll font-size-datatable edit-inline&quot;]/div[@class=&quot;p-datatable-wrapper&quot;]/table[@class=&quot;p-datatable-table&quot;]/tbody[@class=&quot;p-datatable-tbody&quot;]/tr[1]/td[@class=&quot;p-editable-column p-cell-editing&quot;]/div[@class=&quot;p-dropdown p-component p-inputwrapper&quot;]/span[@class=&quot;p-dropdown-label p-inputtext p-placeholder&quot;]</value>
+      <webElementGuid>17364e3e-f5bf-47cc-8a97-c8d40bbe1710</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div/div/div[2]/div[2]/div[5]/div/div[3]/div/div/div[2]/div/div/table/tbody/tr/td[4]/div/span</value>
+      <webElementGuid>76037a67-e8b6-40ad-b6fd-6ad4ed39bb9f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Please Select'])[2]/following::span[2]</value>
+      <webElementGuid>ad687a6e-7db4-40b9-8884-03037cdc450a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Action'])[1]/following::span[4]</value>
+      <webElementGuid>e5253ad2-d4d6-421e-abd7-0f252537dd2f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Please Select'])[6]/preceding::span[2]</value>
+      <webElementGuid>be1d8765-3da8-4fdc-9481-661fe60f28b0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Please Select'])[8]/preceding::span[4]</value>
+      <webElementGuid>dc9c1154-49cc-4cff-8625-a39937a00145</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//td[4]/div/span</value>
+      <webElementGuid>ee1a7365-7dd2-4913-957a-0c62f851112a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Please Select' or . = 'Please Select')]</value>
+      <webElementGuid>0ffe0cbd-87d1-4848-9de9-aac80d55fcd7</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

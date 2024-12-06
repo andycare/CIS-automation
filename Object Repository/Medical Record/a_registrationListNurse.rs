@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_registrationListNurse</name>
+   <tag></tag>
+   <elementGuidId>b5470fae-45de-4a26-a139-32ad2c74e1ef</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#registrationlistnurse > a.p-ripple</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//li[@id='registrationlistnurse']/a</value>
+      </entry>
+      <entry>
+         <key>BASIC</key>
+         <value>//a[@href = '#/registration-list-nurse' and (text() = 'Registration List Nurse' or . = 'Registration List Nurse')]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>ce09d0d2-005b-47b2-a903-f235ece28fce</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>p-ripple</value>
+      <webElementGuid>c96212e1-d973-4e54-b233-2282db237d18</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>#/registration-list-nurse</value>
+      <webElementGuid>7fc974e9-7704-4e7e-8097-28de848564e8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Registration List Nurse</value>
+      <webElementGuid>b698554f-9888-4e92-aec7-2005544567ec</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;registrationlistnurse&quot;)/a[@class=&quot;p-ripple&quot;]</value>
+      <webElementGuid>481e1423-54dc-4364-adeb-cd2f9842da4f</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//li[@id='registrationlistnurse']/a</value>
+      <webElementGuid>b6a0a672-4a7d-4f0c-80e6-f81e0d2e9421</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Online Consultation'])[1]/following::a[1]</value>
+      <webElementGuid>27869c8b-66b9-4c3c-aa77-fe2bd68efc84</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Registration List'])[1]/following::a[2]</value>
+      <webElementGuid>305e1317-47ea-4df5-8928-c1dac89c4c7f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Medical Record Dummy'])[1]/preceding::a[1]</value>
+      <webElementGuid>877eee61-f774-431c-972e-ac1868554602</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, '#/registration-list-nurse')]</value>
+      <webElementGuid>d4a9037e-d3f0-48ae-b894-424f0ca2da1d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li[2]/ul/li[4]/a</value>
+      <webElementGuid>025e048a-2c54-4923-aa3f-c0a2d2739be1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = '#/registration-list-nurse' and (text() = 'Registration List Nurse' or . = 'Registration List Nurse')]</value>
+      <webElementGuid>09b1bf86-1877-4b39-9627-1d9911c70232</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

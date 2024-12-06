@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Point of Sales</name>
+   <tag></tag>
+   <elementGuidId>4304447a-e495-4d20-bcab-781d327900cb</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#pointofsales > a.p-ripple</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//li[@id='pointofsales']/a</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>386995e8-5cf1-4237-9a5d-3701a371c96d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>p-ripple</value>
+      <webElementGuid>526d8cd5-b00e-4041-a8a0-302d8087c0d8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>#/dashboard</value>
+      <webElementGuid>1f115fe3-207d-4a1d-b261-2e482f951f78</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Point of Sales</value>
+      <webElementGuid>beab4350-d1dd-4238-9941-e6daad85f8c1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;pointofsales&quot;)/a[@class=&quot;p-ripple&quot;]</value>
+      <webElementGuid>70bcf861-99d4-41d2-ac0a-4d926531c5c5</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//li[@id='pointofsales']/a</value>
+      <webElementGuid>8fd1b41c-b49b-443a-ba43-6964432a0c42</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Frontline'])[1]/following::a[1]</value>
+      <webElementGuid>74be812d-529a-4b1d-bd12-897500f7ddff</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Dashboard'])[1]/following::a[2]</value>
+      <webElementGuid>528ed88c-3102-44df-b60a-0a097fa74898</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Direct Sales'])[1]/preceding::a[1]</value>
+      <webElementGuid>902aea63-7b8a-4b12-ae82-523f3306b7f1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>(//a[contains(@href, '#/dashboard')])[3]</value>
+      <webElementGuid>496cdcc2-e8c0-437e-87bb-1a89229a4997</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li[3]/a</value>
+      <webElementGuid>52734c76-5127-40f8-be57-2abdd51efd16</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = '#/dashboard' and (text() = 'Point of Sales' or . = 'Point of Sales')]</value>
+      <webElementGuid>cff3e0dc-1dc8-47c5-9de2-d5d6b8545122</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

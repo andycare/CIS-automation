@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>label_treatment</name>
+   <tag></tag>
+   <elementGuidId>1e4d165c-6738-4b5d-9576-9254b58d0333</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/div/div/div[2]/div[2]/form/div/div/div/div[8]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>93bfc1b1-5382-4859-86ce-2167434f1dd3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>col-8 text-body-2 p-2</value>
+      <webElementGuid>08d6ebb2-c05a-4ac9-9f16-c6b33ed5fc7f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Double Basic DPCT (Medical Grade Facial)</value>
+      <webElementGuid>5315a09d-4bf8-480d-a37f-e83439d8efe2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[@class=&quot;layout-wrapper layout-static p-ripple-disabled layout-sidebar-darkgray&quot;]/div[@class=&quot;layout-content-wrapper&quot;]/div[@class=&quot;layout-content padding-out-content&quot;]/div[@class=&quot;col-12 xl:col-12 p-0 mb-8&quot;]/form[1]/div[@class=&quot;grid my-3 border-box&quot;]/div[@class=&quot;col-12 md:col-6&quot;]/div[@class=&quot;grid grid-nogutter&quot;]/div[@class=&quot;col-8 text-body-2 p-2&quot;]</value>
+      <webElementGuid>917fe8a0-bc69-4aa2-83dd-36cc8995d326</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div/div/div[2]/div[2]/form/div/div/div/div[8]</value>
+      <webElementGuid>fb6d0b6a-5dcb-48b6-ab60-b9b0d70db4ee</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Treatment'])[1]/following::div[1]</value>
+      <webElementGuid>cf84f04c-46af-4adf-a5ce-1ac134c6d736</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='-'])[1]/following::div[2]</value>
+      <webElementGuid>ff0d9b22-ae79-4000-b072-0c973e7fc4a4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Appointment Date'])[1]/preceding::div[1]</value>
+      <webElementGuid>9227bf18-fef9-43d5-9f1a-ad8eb6ee3de8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Appointment Time'])[1]/preceding::div[3]</value>
+      <webElementGuid>d442cd07-716f-4196-8779-1731f2101a8f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Double Basic DPCT (Medical Grade Facial)']/parent::*</value>
+      <webElementGuid>59c76669-0350-4e2c-bb68-ae5425c3dc33</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[8]</value>
+      <webElementGuid>65bc8ca7-fa12-4763-b45b-284ec010d5c5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Double Basic DPCT (Medical Grade Facial)' or . = 'Double Basic DPCT (Medical Grade Facial)')]</value>
+      <webElementGuid>926c5ffa-9c43-41b5-8841-44aabc52bf0b</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

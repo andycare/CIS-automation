@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>validation_firstname</name>
+   <tag></tag>
+   <elementGuidId>e2e9f688-9c91-4df6-aff9-13b7cd8d2450</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>span.validation</value>
+      </entry>
+      <entry>
+         <key>BASIC</key>
+         <value>//*[(text() = 'Please insert 1 - 50 characters' or . = 'Please insert 1 - 50 characters')]</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/div/div/div[2]/div[2]/div/form/div[5]/div/div/div[5]/div[2]/div/span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>f353eab8-c963-460b-8d7d-70268def97a2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>validation</value>
+      <webElementGuid>25a0662f-0618-4f7e-aa3f-394d89796899</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Please insert 1 - 50 characters</value>
+      <webElementGuid>78779a3b-a435-45d5-b9c0-37175acdee3b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[@class=&quot;layout-wrapper layout-static p-ripple-disabled layout-sidebar-darkgray&quot;]/div[@class=&quot;layout-content-wrapper&quot;]/div[@class=&quot;layout-content padding-out-content&quot;]/div[@class=&quot;p-blockui-container&quot;]/div[@class=&quot;col-12 xl:col-12 p-0 mb-8rem&quot;]/form[1]/div[@class=&quot;grid m-0 p-0&quot;]/div[@class=&quot;col-12 md:col-6 py-1 px-0 md:pr-3 md:py-0&quot;]/div[@class=&quot;p-3 border-box h-full&quot;]/div[@class=&quot;flex&quot;]/div[@class=&quot;flex-grow-1 flex align-items-center justify-content-start&quot;]/div[@class=&quot;flex flex-row flex-wrap justify-content-end card-container blue-container&quot;]/span[@class=&quot;validation&quot;]</value>
+      <webElementGuid>77ed7ae9-72fe-47e4-8f0c-9c9c21937e8d</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div/div/div[2]/div[2]/div/form/div[5]/div/div/div[5]/div[2]/div/span</value>
+      <webElementGuid>d271863c-f7b0-4fbd-bc30-b4e2854f23c9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='*'])[1]/following::span[1]</value>
+      <webElementGuid>40ad3bbd-726c-4e82-842b-799254236e2a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Middle Name'])[1]/preceding::span[1]</value>
+      <webElementGuid>31f61554-0ab6-496a-b71e-e2d74b90c41c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Please insert 1 - 50 characters'])[2]/preceding::span[1]</value>
+      <webElementGuid>5131ffc3-00f9-450f-9f55-ce280897b74a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Please insert 1 - 50 characters']/parent::*</value>
+      <webElementGuid>49bf25b0-5a3c-4db7-9011-d7cd220215c9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[5]/div[2]/div/span</value>
+      <webElementGuid>63853a42-fa9a-4e45-930f-44e1670b6843</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Please insert 1 - 50 characters' or . = 'Please insert 1 - 50 characters')]</value>
+      <webElementGuid>11973510-abe7-4d1d-b483-52abd221c791</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

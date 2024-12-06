@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_select_secondrow</name>
+   <tag></tag>
+   <elementGuidId>7d19b412-e27d-4234-86bd-6f979f315a51</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>tr.p-row-odd > td:nth-of-type(12) > div.actions > div.mb-2 > button.p-button.p-component.button-select-action.button-netral</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='serviceActivityTable']/div/table/tbody/tr[2]/td[12]/div/div/button</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>0c583399-4412-423f-a577-4fe5aed3deb3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-label</name>
+      <type>Main</type>
+      <value>Select</value>
+      <webElementGuid>f6cb8c3f-774f-4948-8733-aca993f79fd9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>p-button p-component button-select-action button-netral</value>
+      <webElementGuid>95fb1cbb-e334-473a-aff8-b2f7d32bd697</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Select</value>
+      <webElementGuid>bfea92d8-c02c-4614-9ada-102b48abd774</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;serviceActivityTable&quot;)/div[@class=&quot;p-datatable-wrapper&quot;]/table[@class=&quot;p-datatable-table&quot;]/tbody[@class=&quot;p-datatable-tbody&quot;]/tr[@class=&quot;p-row-odd&quot;]/td[12]/div[@class=&quot;actions&quot;]/div[@class=&quot;mb-2&quot;]/button[@class=&quot;p-button p-component button-select-action button-netral&quot;]</value>
+      <webElementGuid>ef2575b9-57ae-47a0-832b-46f8207d649f</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='serviceActivityTable']/div/table/tbody/tr[2]/td[12]/div/div/button</value>
+      <webElementGuid>5f837594-13bf-4124-9f03-fc25bf21c2a3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Ruangan Treatment 1 - Bed 2 - 22:48:00 - 23:00:00'])[1]/following::button[1]</value>
+      <webElementGuid>98657c09-ac91-405f-9007-d5b5ca208063</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='New'])[1]/following::button[1]</value>
+      <webElementGuid>03ae2d74-6086-4aa8-9135-e9057ff036d5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Download'])[1]/preceding::button[1]</value>
+      <webElementGuid>114411db-7285-4851-8098-3171e04c6ee4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//tr[2]/td[12]/div/div/button</value>
+      <webElementGuid>65a100e5-8326-4610-8397-8c1303ef5ae3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[(text() = 'Select' or . = 'Select')]</value>
+      <webElementGuid>1daa9fcf-972f-4dd0-9764-99721c5a5e82</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

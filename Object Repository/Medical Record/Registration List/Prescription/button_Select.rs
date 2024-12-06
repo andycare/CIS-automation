@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_Select</name>
+   <tag></tag>
+   <elementGuidId>9fad8cd7-4767-41f6-81a0-453c1684fdce</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>button.p-button.p-component.button-select-action.button-netral.mr-2</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='pr_id_570_content_3']/div/div/div/table/tbody/tr/td[4]/div/button</value>
+      </entry>
+      <entry>
+         <key>BASIC</key>
+         <value>//button[@class = 'p-button p-component button-select-action button-netral mr-2' and (text() = 'Select' or . = 'Select')]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>648c3710-d783-4d7c-858d-fcb5f607da04</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-label</name>
+      <type>Main</type>
+      <value>Select</value>
+      <webElementGuid>30b63289-c34f-41b3-bc90-52d98e79af34</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>p-button p-component button-select-action button-netral mr-2</value>
+      <webElementGuid>b1695071-f0de-40ef-8a2c-826b6d4f4916</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Select</value>
+      <webElementGuid>ce63e0a7-2270-4364-b7a2-18e001a8c633</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;pr_id_570_content_3&quot;)/div[@class=&quot;grid&quot;]/div[@class=&quot;p-datatable p-component p-datatable-responsive-scroll p-datatable-products col-12 font-size-datatable mt-2&quot;]/div[@class=&quot;p-datatable-wrapper&quot;]/table[@class=&quot;p-datatable-table&quot;]/tbody[@class=&quot;p-datatable-tbody&quot;]/tr[1]/td[4]/div[@class=&quot;actions&quot;]/button[@class=&quot;p-button p-component button-select-action button-netral mr-2&quot;]</value>
+      <webElementGuid>74e56849-13b5-45b8-86ad-bc9fb75bcc0b</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='pr_id_570_content_3']/div/div/div/table/tbody/tr/td[4]/div/button</value>
+      <webElementGuid>ec3000b2-d77f-4b7c-96bd-83abeb1389fb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Prescription Standard'])[1]/following::button[1]</value>
+      <webElementGuid>494b126e-4225-4fb7-8737-13583b9d0345</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Action'])[1]/following::button[1]</value>
+      <webElementGuid>e45c8391-84e2-4da4-a3d0-869ad5fe4358</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Prescription Additional'])[1]/preceding::button[1]</value>
+      <webElementGuid>365dac08-f4ad-4b00-a536-411f9e9c3a4b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//td[4]/div/button</value>
+      <webElementGuid>a57ceaa6-41a4-4a73-b461-ccfa50b63972</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[(text() = 'Select' or . = 'Select')]</value>
+      <webElementGuid>df04f711-27bd-4ca3-86c0-4ab7051b81c2</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

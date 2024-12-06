@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>textbox_unit</name>
+   <tag></tag>
+   <elementGuidId>c866bac7-0fdf-47e9-bc77-3656f8e69a94</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//*[@placeholder = 'Please Input' and @type = 'number']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[6]/div/input</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>input</value>
+      <webElementGuid>ccd9b8b9-56c5-4e91-b9bf-db1a989b063c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>p-inputtext p-component input-text</value>
+      <webElementGuid>88bc86db-660c-45a9-aef2-ba811f2c5ba1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>placeholder</name>
+      <type>Main</type>
+      <value>Please Input</value>
+      <webElementGuid>735b135f-fce5-4bd4-b238-e88e011f9860</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>number</value>
+      <webElementGuid>8505a79a-6898-4692-a771-f6e94620c6b4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;pr_id_15_content&quot;)/div[@class=&quot;grid mt-2 m-0 p-0&quot;]/div[@class=&quot;col-12 md:col-6 py-0&quot;]/div[@class=&quot;grid m-0 p-0 align-items-center&quot;]/div[@class=&quot;col-8 py-2 px-0&quot;]/div[@class=&quot;p-inputgroup mt-2 mr-2 h-33&quot;]/input[@class=&quot;p-inputtext p-component input-text&quot;]</value>
+      <webElementGuid>55668a06-92b4-4768-9658-ea47940ced29</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>(//input[@value=''])[3]</value>
+      <webElementGuid>2a0170d7-b1bf-4b7d-9d35-e9018a147e01</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='pr_id_15_content']/div[2]/div/div/div[6]/div/input</value>
+      <webElementGuid>7da721a8-2618-4ba5-9874-ab8f6a5b7477</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[6]/div/input</value>
+      <webElementGuid>41a23798-0f2e-48a8-b38c-10cc1f1700f7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//input[@placeholder = 'Please Input' and @type = 'number']</value>
+      <webElementGuid>539cb1fc-5e07-4bb1-b34b-14d06ca5029b</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>radio_medical_staff</name>
+   <tag></tag>
+   <elementGuidId>9666f4b5-93a0-4733-bb6a-6188f8a1550e</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//*[@id = 'medicalStaffType']</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='medicalStaffType']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#medicalStaffType</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>759e2049-df5a-43c6-8b76-bb07fcac88e5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>medicalStaffType</value>
+      <webElementGuid>2793be9d-4d94-46d4-b78e-f2a18632226b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>p-radiobutton p-component p-radiobutton-checked p-radiobutton-disabled</value>
+      <webElementGuid>895b76c6-5b2d-43c3-9ea6-12a5717bc3d8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;pr_id_79_content&quot;)/div[@class=&quot;grid&quot;]/div[@class=&quot;col ml-2 px-0&quot;]/div[@class=&quot;grid formgrid col-12 p-0 mb-2&quot;]/div[@class=&quot;col-12 md:col-8 mt-2 px-0&quot;]/div[@class=&quot;field-radiobutton&quot;]/div[@id=&quot;medicalStaffType&quot;]</value>
+      <webElementGuid>d818e490-bd8d-4b26-8209-42d091cc3e57</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//div[@id='medicalStaffType']</value>
+      <webElementGuid>c0492131-132a-45ca-acda-d462b9d61c1d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='pr_id_79_content']/div/div/div[3]/div[2]/div/div</value>
+      <webElementGuid>6ada24d1-dbd1-4701-921c-3623a3bf7be1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Medical Staff'])[2]/following::div[3]</value>
+      <webElementGuid>46698238-8b45-40d2-a877-ab7cc3201911</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Additional Syringe VITL'])[2]/following::div[6]</value>
+      <webElementGuid>b748d0f7-2e2d-4c7f-be7f-17354131568a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Doctor'])[1]/preceding::div[4]</value>
+      <webElementGuid>d446d1f8-d4d5-45f6-b1eb-0c6beda46602</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Therapist/Nurse'])[1]/preceding::div[8]</value>
+      <webElementGuid>3f98b6e6-1f2d-4efa-ac58-92730c75c922</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/div[2]/div/div</value>
+      <webElementGuid>b3b7c9b6-fa49-4df7-8350-b3d798571d8a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[@id = 'medicalStaffType']</value>
+      <webElementGuid>1100c872-103a-4ae6-8fbf-607ab07ccc4f</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
